@@ -1,0 +1,101 @@
+{
+  "publications": [
+    {
+      "id": "pub-1",
+      "title": "The New Educational Frontier: Agentic AI's Evolutionary Journey Through The Lens of SPAR-4-SLR",
+      "journal": "VOCATECH: Vocational Education and Technology Journal",
+      "date": "2025-12",
+      "type": "journal",
+      "authors": ["Mokhamad Arfan Wicaksono"],
+      "url": null
+    },
+    {
+      "id": "pub-2",
+      "title": "Performance Evaluation of CoAP Communication Method Extensions in Internet of Video Things",
+      "journal": "Journal of Advances in Information Technology",
+      "date": "2025-07",
+      "type": "journal",
+      "authors": ["Mokhamad Arfan Wicaksono"],
+      "url": null
+    },
+    {
+      "id": "pub-3",
+      "title": "Music Genre Classification Using Convolutional Neural Network Method",
+      "journal": "2024 International Conference on Information Technology Systems and Innovation (ICITSI)",
+      "date": "2025-03",
+      "type": "conference",
+      "authors": ["Mokhamad Arfan Wicaksono"],
+      "url": null
+    },
+    {
+      "id": "pub-4",
+      "title": "Arsitektur Software-Defined Wireless Multimedia Sensor Network (SDWSN) Berbasis CoAP untuk Optimasi Komunikasi dan Manajemen Jaringan",
+      "journal": "DISTech: Digital Innovation and Sustainable Technology Journal",
+      "date": "2025-01",
+      "type": "journal",
+      "authors": ["Mokhamad Arfan Wicaksono"],
+      "url": null
+    },
+    {
+      "id": "pub-5",
+      "title": "IoT Video Delivery Optimization Through Machine Learning-Based Frame Resolution Adjustment",
+      "journal": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+      "date": "2024-05",
+      "type": "journal",
+      "authors": ["Mokhamad Arfan Wicaksono"],
+      "url": null
+    },
+    {
+      "id": "pub-6",
+      "title": "Combining inception-V3 and support vector machine for garbage classification",
+      "journal": "Jurnal Infotel",
+      "date": "2023-11",
+      "type": "journal",
+      "authors": ["Mokhamad Arfan Wicaksono"],
+      "url": null
+    },
+    {
+      "id": "pub-7",
+      "title": "Recyclable Waste Classification using SquezeeNet and XGBoost",
+      "journal": "(IJACSA) International Journal of Advanced Computer Science and Applications",
+      "date": "2023-01",
+      "type": "journal",
+      "authors": ["Mokhamad Arfan Wicaksono"],
+      "url": null
+    },
+    {
+      "id": "pub-8",
+      "title": "CoAP Evaluation for Node-Edge Communication on Wireless Multimedia Sensor Network",
+      "journal": "2021 International Conference on Sustainable Engineering and Creative Computing",
+      "date": "2021-12",
+      "type": "conference",
+      "authors": ["Mokhamad Arfan Wicaksono"],
+      "url": null
+    },
+    {
+      "id": "pub-9",
+      "title": "Development of Cat Care System Based on Internet of Things",
+      "journal": "2019 International Conference on Electrical Engineering and Informatics, ICEEI",
+      "date": "2020-02",
+      "type": "conference",
+      "authors": ["Mokhamad Arfan Wicaksono"],
+      "url": null
+    }
+  ],
+  "patents": [
+    {
+      "id": "patent-1",
+      "title": "HydroponicSense",
+      "type": "Computer Program Copyright",
+      "issuer": "Indonesia Ministry of Law",
+      "date": "2020-12"
+    },
+    {
+      "id": "patent-2",
+      "title": "Cat Care",
+      "type": "Computer Program Copyright",
+      "issuer": "Indonesia Ministry of Law",
+      "date": "2019-03"
+    }
+  ]
+}

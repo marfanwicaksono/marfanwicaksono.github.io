@@ -1,0 +1,70 @@
+{
+  "awards": [
+    {
+      "id": "award-1",
+      "title": "2nd Winner of Business IT-Case Competition",
+      "event": "Techphoria Event",
+      "organizer": "Universitas Sriwijaya",
+      "level": "National",
+      "date": "2017-10",
+      "description": "Second place winner in the Business IT-Case Competition at national level."
+    },
+    {
+      "id": "award-2",
+      "title": "Silver Prize - Engineering Solution Contest",
+      "event": "d-Camp 2018",
+      "organizer": "Innovation Hub Center for Engineering Education (IHCEE) Chonbuk National University",
+      "level": "International",
+      "date": "2018-08",
+      "description": "Silver prize in international engineering solution contest held in South Korea."
+    },
+    {
+      "id": "award-3",
+      "title": "Participant Prize - i-CAPS 2018",
+      "event": "International Students Joint Capstone Design Project Competition",
+      "organizer": "Innovation Hub Center for Engineering Education (IHCEE) Chonbuk National University",
+      "level": "International",
+      "date": "2018-08",
+      "description": "Participation award in international capstone design project competition."
+    }
+  ],
+  "organizations": [
+    {
+      "id": "org-1",
+      "position": "Head of Human Resource Management",
+      "organization": "Lingkung Seni Sunda (LSS) ITB",
+      "startDate": "2016-09",
+      "endDate": "2017-09"
+    },
+    {
+      "id": "org-2",
+      "position": "Vice Head of Intra-Campus Division",
+      "organization": "Himpunan Mahasiswa Informatika (HMIF) ITB",
+      "startDate": "2015-02",
+      "endDate": "2016-01"
+    }
+  ],
+  "committee": [
+    {
+      "id": "com-1",
+      "position": "Head of Logistics Division",
+      "event": "Arkavidia Informatics and IT Festival",
+      "organization": "HMIF ITB",
+      "date": "2016"
+    },
+    {
+      "id": "com-2",
+      "position": "Chairman",
+      "event": "HMIF July Graduation 2016",
+      "organization": "HMIF ITB",
+      "date": "2016"
+    },
+    {
+      "id": "com-3",
+      "position": "General Secretary",
+      "event": "New LSS ITB Member Recruitment 2015",
+      "organization": "LSS ITB",
+      "date": "2015"
+    }
+  ]
+}

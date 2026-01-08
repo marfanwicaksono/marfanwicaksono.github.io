@@ -1,0 +1,102 @@
+{
+  "experiences": [
+    {
+      "id": "exp-1",
+      "company": "Urbansolv",
+      "position": "AI/ML Specialist & Trainer",
+      "location": "Indonesia",
+      "type": "full-time",
+      "startDate": "2025-07",
+      "endDate": null,
+      "current": true,
+      "description": "Leading AI and Machine Learning initiatives, providing training and consultation on ML implementation for various projects.",
+      "achievements": [
+        "Machine Learning Trainer for Kementrian PU programs",
+        "Developing AI/ML solutions for urban development projects"
+      ],
+      "technologies": ["Python", "Machine Learning", "TensorFlow", "Data Science"]
+    },
+    {
+      "id": "exp-2",
+      "company": "Akademi Digital Bandung",
+      "position": "Head of Department of Software Engineering Technology",
+      "location": "Bandung, Indonesia",
+      "type": "full-time",
+      "startDate": "2024-10",
+      "endDate": null,
+      "current": true,
+      "description": "Leading the Software Engineering Technology department, developing curriculum and training programs for digital skills education.",
+      "achievements": [
+        "Leading software engineering education initiatives",
+        "Organizing workshops on Competitive Programming and AI",
+        "Community engagement through BOOST YOUR BUSINESS programs"
+      ],
+      "technologies": ["Software Engineering", "Education", "Programming"]
+    },
+    {
+      "id": "exp-3",
+      "company": "Enclave Kolaborasi Global (EKG), PT",
+      "position": "Head of Knowledge and Expert",
+      "location": "Indonesia",
+      "type": "full-time",
+      "startDate": "2023-11",
+      "endDate": null,
+      "current": true,
+      "description": "Managing knowledge initiatives and providing expert consultation on data analytics and AI projects.",
+      "achievements": [
+        "Developed AI-based Proposal Checker Platform",
+        "Conducted Data Analytics workshops for government and corporate clients"
+      ],
+      "technologies": ["Data Analytics", "AI", "Project Management"]
+    },
+    {
+      "id": "exp-4",
+      "company": "KKTI STEI ITB",
+      "position": "Academic Assistant",
+      "location": "Bandung, Indonesia",
+      "type": "part-time",
+      "startDate": "2023-08",
+      "endDate": "2024-12",
+      "current": false,
+      "description": "Assisting in academic activities and research support at the School of Electrical Engineering and Informatics.",
+      "achievements": [
+        "Supporting academic programs and student activities",
+        "Contributing to research projects"
+      ],
+      "technologies": ["Research", "Teaching", "Academic Support"]
+    },
+    {
+      "id": "exp-5",
+      "company": "DSP-MC Laboratory ITB",
+      "position": "Researcher",
+      "location": "Bandung, Indonesia",
+      "type": "full-time",
+      "startDate": "2019-04",
+      "endDate": "2024-12",
+      "current": false,
+      "description": "Conducting research on Wireless Sensor Networks, Multimedia IoT, and Machine Learning applications.",
+      "achievements": [
+        "Published multiple papers on IoT and Multimedia communications",
+        "Led research on CoAP communication methods for IoT",
+        "Developed ML-based video delivery optimization systems"
+      ],
+      "technologies": ["IoT", "Machine Learning", "Wireless Sensor Networks", "Python", "Research"]
+    },
+    {
+      "id": "exp-6",
+      "company": "PT Indo Cisc Network Security Consultant",
+      "position": "Research and Development Intern",
+      "location": "Indonesia",
+      "type": "internship",
+      "startDate": "2017-05",
+      "endDate": "2017-08",
+      "current": false,
+      "description": "Internship focused on network security research and development projects.",
+      "achievements": [
+        "Conducted research on network security solutions",
+        "Contributed to R&D initiatives"
+      ],
+      "technologies": ["Network Security", "R&D"]
+    }
+  ]
+}

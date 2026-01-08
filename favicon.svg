@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Darker blue background (matching dark theme) -->
+  <rect width="200" height="200" fill="#082f49" rx="40"/>
+  
+  <!-- White "A." centered -->
+  <text x="80" y="135" font-family="Inter, system-ui, sans-serif" font-size="110" font-weight="700" fill="white" text-anchor="middle">A</text>
+  <text x="145" y="135" font-family="Inter, system-ui, sans-serif" font-size="110" font-weight="700" fill="#0ea5e9" text-anchor="middle">.</text>
+</svg>

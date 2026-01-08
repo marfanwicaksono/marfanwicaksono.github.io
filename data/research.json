@@ -1,0 +1,60 @@
+{
+  "research": [
+    {
+      "id": "res-1",
+      "title": "Sistem Absensi Kampus Terintegrasi Berbasis AIoT dengan Pendekatan QoE dan Akuntabilitas Menggunakan RFID dan Computer Vision",
+      "funder": "Penelitian Dosen Pemula Kemdiktisaintek",
+      "year": "2025",
+      "status": "ongoing",
+      "description": "Integrated campus attendance system based on AIoT with QoE and accountability approach using RFID and Computer Vision."
+    },
+    {
+      "id": "res-2",
+      "title": "Integrasi Agentic AI dalam Pembelajaran Adaptif untuk Meningkatkan Kompetensi Bisnis Digital Mahasiswa",
+      "funder": "Penelitian Dosen Pemula Kemdiktisaintek",
+      "year": "2025",
+      "status": "ongoing",
+      "description": "Integration of Agentic AI in adaptive learning to improve students' digital business competencies."
+    },
+    {
+      "id": "res-3",
+      "title": "Peningkatan Kinerja Pengiriman Multimedia pada Internet of Things Berbasis Jaringan Sensor Nirkabel",
+      "funder": "Penelitian Kompetitif Nasional",
+      "year": "2023",
+      "status": "completed",
+      "description": "Performance improvement of multimedia delivery on IoT based on Wireless Sensor Networks."
+    },
+    {
+      "id": "res-4",
+      "title": "Pengembangan Sistem Pengiriman Data Berbasis Machine Learning untuk Peningkatan QoE pada Multimedia Internet of Things",
+      "funder": "Riset dan Inovasi untuk Indonesia Maju",
+      "year": "2023",
+      "status": "completed",
+      "description": "Development of ML-based data delivery system for QoE improvement in Multimedia IoT."
+    },
+    {
+      "id": "res-5",
+      "title": "Sistem Pengelolaan WSN pada Multimedia IoT untuk Peningkatan Quality of Service",
+      "funder": "PPMI",
+      "year": "2021",
+      "status": "completed",
+      "description": "WSN management system for Multimedia IoT to improve Quality of Service."
+    },
+    {
+      "id": "res-6",
+      "title": "Software-Defined Network pada Jaringan Sensor Nirkabel untuk Sistem Multimedia-Internet of Things (M-IoT)",
+      "funder": "Riset ITB",
+      "year": "2021",
+      "status": "completed",
+      "description": "SDN on Wireless Sensor Networks for Multimedia-IoT systems."
+    },
+    {
+      "id": "res-7",
+      "title": "Pengembangan Platform Perawatan Tanaman Hidroponik dengan Analisis Citra Digital Berbasis Algoritma CNN dan IoT",
+      "funder": "Penelitian Terapan Unggulan Perguruan Tinggi",
+      "year": "2020",
+      "status": "completed",
+      "description": "Development of hydroponic plant care platform using CNN-based digital image analysis and IoT."
+    }
+  ]
+}

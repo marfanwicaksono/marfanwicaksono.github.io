@@ -1,0 +1,148 @@
+{
+  "projects": [
+    {
+      "id": "project-1",
+      "title": "RFID-based Student Attendance Platform",
+      "description": "IoT-based campus attendance system using RFID and Computer Vision with QoE and accountability approach.",
+      "longDescription": "Developing an integrated campus attendance system based on AIoT (Artificial Intelligence of Things) with QoE (Quality of Experience) and accountability approach using RFID and Computer Vision technologies. This is a Penelitian Dosen Pemula project funded by Kemdiktisaintek.",
+      "technologies": ["IoT", "RFID", "Computer Vision", "Python", "Machine Learning"],
+      "organization": "Yayasan Pendidikan Telkom",
+      "startDate": "2025-03",
+      "endDate": "2025-07",
+      "featured": true,
+      "category": "iot"
+    },
+    {
+      "id": "project-2",
+      "title": "AI-based Proposal Checker Platform",
+      "description": "AI platform for checking and evaluating proposals.",
+      "longDescription": "Developed an AI-based platform that automatically checks and evaluates business proposals. The system uses NLP and machine learning to assess proposal quality and provide feedback.",
+      "technologies": ["AI", "NLP", "Python", "Machine Learning"],
+      "organization": "Enclave Kolaborasi Global x Linxbrain Project",
+      "startDate": "2024-05",
+      "endDate": "2024-08",
+      "featured": true,
+      "category": "ai"
+    },
+    {
+      "id": "project-3",
+      "title": "Cat Care System Based on Internet of Things",
+      "description": "Internet of Things-based cat care system for automated pet monitoring and feeding.",
+      "longDescription": "Developed a comprehensive cat care system using Internet of Things technology for diploma final project. The system includes automated feeding, health monitoring, and environmental control. This project was published at ICEEI 2019 and received computer program copyright from Indonesia Ministry of Law.",
+      "technologies": ["IoT", "Arduino", "Sensors", "Mobile App", "Cloud"],
+      "organization": "Final Project Course",
+      "startDate": "2017-08",
+      "endDate": "2018-12",
+      "featured": true,
+      "category": "iot"
+    },
+    {
+      "id": "project-4",
+      "title": "Enterprise Architect for Radio-B",
+      "description": "Designing an Enterprise Architect for Radio-B.",
+      "longDescription": "Designed comprehensive enterprise architecture for Radio-B, including business processes, information systems, and technology infrastructure alignment.",
+      "technologies": ["Enterprise Architecture", "Business Process", "System Design"],
+      "organization": "Enterprise Architecture Course",
+      "startDate": "2017-02",
+      "endDate": "2017-06",
+      "featured": false,
+      "category": "design"
+    },
+    {
+      "id": "project-5",
+      "title": "Integrated Health Information System",
+      "description": "Designing integrated health information system for healthcare facilities.",
+      "longDescription": "Designed an integrated health information system covering patient management, medical records, and healthcare service delivery using multimedia system engineering principles.",
+      "technologies": ["System Design", "Healthcare IT", "Database Design", "Multimedia"],
+      "organization": "Multimedia System Engineering Course",
+      "startDate": "2017-01",
+      "endDate": "2017-06",
+      "featured": false,
+      "category": "design"
+    },
+    {
+      "id": "project-6",
+      "title": "Web Information System for Siete Cafe",
+      "description": "Designing web-based information system for Siete Cafe.",
+      "longDescription": "Designed a web information system for Siete Cafe including menu management, order processing, and customer information system based on enterprise requirement analysis.",
+      "technologies": ["Web Design", "Requirement Analysis", "System Design", "Database"],
+      "organization": "Enterprise Requirement Analysis Course",
+      "startDate": "2016-08",
+      "endDate": "2016-12",
+      "featured": false,
+      "category": "web"
+    },
+    {
+      "id": "project-7",
+      "title": "Online Delivery System for Mulya Cirebon Chinese Food",
+      "description": "Designing online delivery system for Chinese food restaurant.",
+      "longDescription": "Designed an online food delivery system for Mulya Cirebon Chinese Food restaurant including order management, delivery tracking, and payment integration.",
+      "technologies": ["System Design", "Service Design", "Database", "Web"],
+      "organization": "Information System and Technology Service Course",
+      "startDate": "2016-08",
+      "endDate": "2016-12",
+      "featured": false,
+      "category": "web"
+    },
+    {
+      "id": "project-8",
+      "title": "Web-Based Hotel Reservation and Service System",
+      "description": "Develop web-based hotel reservation and service management system.",
+      "longDescription": "Developed a comprehensive web-based hotel reservation and service system including room booking, customer management, and service request handling using software engineering best practices.",
+      "technologies": ["Web Development", "PHP", "MySQL", "Software Engineering"],
+      "organization": "Software Engineering Course",
+      "startDate": "2016-08",
+      "endDate": "2016-12",
+      "featured": false,
+      "category": "web"
+    },
+    {
+      "id": "project-9",
+      "title": "Student Monitoring System for Salman Al-Farisi Primary School",
+      "description": "Designing student monitoring and management system for primary school.",
+      "longDescription": "Designed a student monitoring system for Salman Al-Farisi Primary School including attendance tracking, grade management, and parent communication features.",
+      "technologies": ["System Design", "Requirement Analysis", "Database Design"],
+      "organization": "System Requirement Analysis Course",
+      "startDate": "2016-01",
+      "endDate": "2016-05",
+      "featured": false,
+      "category": "design"
+    },
+    {
+      "id": "project-10",
+      "title": "Online Booking System for Futsal Field Reservation",
+      "description": "Planning online booking system project for futsal field reservation.",
+      "longDescription": "Planned and designed an online booking system for futsal field reservation including scheduling, payment processing, and customer management using project management methodologies.",
+      "technologies": ["Project Management", "System Planning", "Scheduling"],
+      "organization": "Project Management Course",
+      "startDate": "2016-01",
+      "endDate": "2016-05",
+      "featured": false,
+      "category": "design"
+    },
+    {
+      "id": "project-11",
+      "title": "Harvest Moon Game Replica with Java",
+      "description": "Develop replica of Harvest Moon game using Java programming.",
+      "longDescription": "Developed a replica of the popular Harvest Moon game using Java and object-oriented programming principles, including farming mechanics, character interactions, and resource management.",
+      "technologies": ["Java", "OOP", "Game Development"],
+      "organization": "Object Oriented Programming Course",
+      "startDate": "2016-03",
+      "endDate": "2016-05",
+      "featured": false,
+      "category": "development"
+    },
+    {
+      "id": "project-12",
+      "title": "Flight Database Management System",
+      "description": "Designing flight database management system for airline operations.",
+      "longDescription": "Designed a comprehensive flight database management system covering flight scheduling, passenger bookings, crew management, and aircraft maintenance using database modeling principles.",
+      "technologies": ["Database Design", "SQL", "Data Modeling", "ERD"],
+      "organization": "Database Modelling Course",
+      "startDate": "2015-10",
+      "endDate": "2015-12",
+      "featured": false,
+      "category": "database"
+    }
+  ]
+}

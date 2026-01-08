@@ -1,0 +1,222 @@
+{
+  "categories": [
+    {
+      "id": "ai-ml",
+      "name": "AI & Machine Learning",
+      "skills": [
+        {
+          "name": "Machine Learning",
+          "icon": "brain",
+          "experience": "5+ years",
+          "technologies": ["Scikit-learn", "TensorFlow", "PyTorch", "XGBoost"],
+          "capabilities": [
+            "Built ML-based frame resolution adjustment for IoT video optimization",
+            "Developed predictive models for multimedia delivery systems",
+            "Published research in ACM Transactions on ML applications"
+          ],
+          "relatedExperience": ["exp-1", "exp-3"],
+          "relatedProjects": ["project-3"],
+          "relatedPublications": ["pub-5"],
+          "relatedResearch": ["res-4"],
+          "relatedTraining": ["train-5"],
+          "relatedEducation": ["edu-1"]
+        },
+        {
+          "name": "Deep Learning & CNN",
+          "icon": "network",
+          "experience": "4+ years",
+          "technologies": ["TensorFlow", "Keras", "PyTorch", "Inception-V3"],
+          "capabilities": [
+            "Developed CNN models for music genre classification",
+            "Built computer vision systems for plant disease detection",
+            "Created garbage classification system using Inception-V3 and SVM"
+          ],
+          "relatedProjects": ["project-5", "project-6"],
+          "relatedPublications": ["pub-3", "pub-6"],
+          "relatedEducation": ["edu-1", "edu-2"]
+        },
+        {
+          "name": "Computer Vision",
+          "icon": "eye",
+          "experience": "4+ years",
+          "technologies": ["OpenCV", "CNN", "RFID", "Python"],
+          "capabilities": [
+            "Developing AIoT attendance system with CV and RFID",
+            "Built image processing for hydroponic plant monitoring",
+            "Implemented real-time object detection systems"
+          ],
+          "relatedProjects": ["project-1", "project-5"],
+          "relatedResearch": ["res-1"],
+          "relatedEducation": ["edu-1"]
+        },
+        {
+          "name": "Data Science & Analytics",
+          "icon": "chart",
+          "experience": "6+ years",
+          "technologies": ["Python", "Pandas", "NumPy", "Matplotlib", "SQL"],
+          "capabilities": [
+            "Conducted data analytics workshops for government agencies",
+            "Analyzed QoE metrics for multimedia IoT systems",
+            "Built data pipelines for IoT sensor networks"
+          ],
+          "relatedExperience": ["exp-3"],
+          "relatedTraining": ["train-3"]
+        }
+      ]
+    },
+    {
+      "id": "iot",
+      "name": "Internet of Things",
+      "skills": [
+        {
+          "name": "IoT System Architecture",
+          "icon": "cpu",
+          "experience": "7+ years",
+          "technologies": ["CoAP", "MQTT", "WSN", "Edge Computing", "Cloud IoT"],
+          "capabilities": [
+            "Designed software-defined wireless multimedia sensor networks",
+            "Built end-to-end IoT solutions from sensors to cloud",
+            "Published 10+ research papers on IoT systems optimization"
+          ],
+          "relatedExperience": ["exp-1", "exp-3"],
+          "relatedProjects": ["project-1", "project-3", "project-4"],
+          "relatedPublications": ["pub-2", "pub-4", "pub-5"],
+          "relatedResearch": ["res-1", "res-3", "res-4", "res-5", "res-6"],
+          "relatedTraining": ["train-1", "train-2", "train-4", "train-6"],
+          "relatedEducation": ["edu-1", "edu-2"]
+        },
+        {
+          "name": "RFID Technology",
+          "icon": "radio",
+          "experience": "3+ years",
+          "technologies": ["RFID Readers", "NFC", "IoT Integration", "Computer Vision"],
+          "capabilities": [
+            "Developing campus attendance system with RFID and CV",
+            "Integrated RFID with QoE and accountability measures"
+          ],
+          "relatedProjects": ["project-1"],
+          "relatedResearch": ["res-1"]
+        },
+        {
+          "name": "Wireless Sensor Networks",
+          "icon": "wifi",
+          "experience": "6+ years",
+          "technologies": ["CoAP", "6LoWPAN", "SDN", "WSN Protocols"],
+          "capabilities": [
+            "Optimized multimedia delivery on WSN for IoT",
+            "Developed SDN-based WSN management systems",
+            "Published research on WSN QoS improvement"
+          ],
+          "relatedPublications": ["pub-4"],
+          "relatedResearch": ["res-3", "res-5", "res-6"],
+          "relatedEducation": ["edu-1"]
+        },
+        {
+          "name": "Embedded Systems",
+          "icon": "microchip",
+          "experience": "6+ years",
+          "technologies": ["Arduino", "ESP32", "Raspberry Pi", "Sensors", "Actuators"],
+          "capabilities": [
+            "Built cat care system with automated feeding and monitoring",
+            "Developed hydroponic monitoring with environmental sensors",
+            "Created smart agriculture IoT devices"
+          ],
+          "relatedProjects": ["project-4", "project-5"],
+          "relatedTraining": ["train-1", "train-6"],
+          "relatedEducation": ["edu-2"],
+          "relatedAwards": ["award-2"]
+        }
+      ]
+    },
+    {
+      "id": "programming",
+      "name": "Programming & Development",
+      "skills": [
+        {
+          "name": "Python",
+          "icon": "python",
+          "experience": "7+ years",
+          "technologies": ["Django", "FastAPI", "NumPy", "Pandas", "Matplotlib", "TensorFlow"],
+          "capabilities": [
+            "Built ML pipelines and data processing systems",
+            "Developed APIs for IoT data collection and analysis",
+            "Created AI-based proposal checker platform"
+          ],
+          "relatedExperience": ["exp-1", "exp-3"],
+          "relatedProjects": ["project-2", "project-3", "project-5"],
+          "relatedEducation": ["edu-1", "edu-2"]
+        },
+        {
+          "name": "Web Development",
+          "icon": "web",
+          "experience": "5+ years",
+          "technologies": ["JavaScript", "React", "Node.js", "REST APIs"],
+          "capabilities": [
+            "Built responsive web applications for IoT monitoring",
+            "Developed dashboards for real-time sensor data visualization",
+            "Created educational platforms and competition systems"
+          ],
+          "relatedExperience": ["exp-2", "exp-3"],
+          "relatedProjects": ["project-2"]
+        },
+        {
+          "name": "Database Management",
+          "icon": "database",
+          "experience": "6+ years",
+          "technologies": ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
+          "capabilities": [
+            "Designed databases for IoT time-series data storage",
+            "Optimized queries for real-time analytics",
+            "Implemented data pipelines for sensor networks"
+          ],
+          "relatedProjects": ["project-1", "project-2", "project-3"]
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "Research & Education",
+      "skills": [
+        {
+          "name": "Academic Research",
+          "icon": "research",
+          "experience": "7+ years",
+          "technologies": ["LaTeX", "Research Methodology", "Statistical Analysis"],
+          "capabilities": [
+            "Published 15+ papers in international journals and conferences",
+            "Led 6+ funded research projects (national and institutional)",
+            "Expertise in IoT, ML, and WSN research domains"
+          ],
+          "relatedResearch": ["res-1", "res-2", "res-3", "res-4", "res-5", "res-6"],
+          "relatedPublications": ["pub-1", "pub-2", "pub-3", "pub-4", "pub-5"],
+          "relatedEducation": ["edu-1"]
+        },
+        {
+          "name": "Teaching & Training",
+          "icon": "write",
+          "experience": "5+ years",
+          "technologies": ["Curriculum Development", "Workshop Design", "Mentoring"],
+          "capabilities": [
+            "Head of Software Engineering Technology Department",
+            "Trained 100+ professionals in ML, IoT, and Data Science",
+            "Delivered workshops for Samsung, government agencies, and universities"
+          ],
+          "relatedExperience": ["exp-1", "exp-2"],
+          "relatedTraining": ["train-1", "train-2", "train-3", "train-4", "train-5", "train-6"]
+        },
+        {
+          "name": "Project Management",
+          "icon": "project",
+          "experience": "5+ years",
+          "technologies": ["Agile", "Scrum", "Research Planning", "Team Leadership"],
+          "capabilities": [
+            "Led multi-institutional research collaborations",
+            "Managed knowledge initiatives and expert consultations",
+            "Organized technical competitions and educational programs"
+          ],
+          "relatedExperience": ["exp-2", "exp-3"]
+        }
+      ]
+    }
+  ]
+}

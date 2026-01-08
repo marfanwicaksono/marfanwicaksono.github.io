@@ -1,0 +1,172 @@
+{
+  "trainer": [
+    {
+      "id": "train-1",
+      "title": "IoT Instructor",
+      "organization": "Samsung Innovation Campus x dibimbing.id",
+      "date": "2025-10",
+      "type": "instructor"
+    },
+    {
+      "id": "train-2",
+      "title": "IoT Mentor",
+      "organization": "Samsung Innovation Campus x dibimbing.id",
+      "date": "2025-09",
+      "type": "mentor"
+    },
+    {
+      "id": "train-3",
+      "title": "Speaker at Workshop AI & Data Science",
+      "organization": "Pengmas Akademi Digital Bandung",
+      "date": "2025-08",
+      "type": "speaker"
+    },
+    {
+      "id": "train-4",
+      "title": "Speaker at AI and IoT Webinar",
+      "organization": "Samsung Innovation Campus x dibimbing.id",
+      "date": "2025-08",
+      "type": "speaker"
+    },
+    {
+      "id": "train-5",
+      "title": "Machine Learning Trainer",
+      "organization": "Kementrian PU x UrbanSolv",
+      "date": "2025-07",
+      "type": "trainer"
+    },
+    {
+      "id": "train-6",
+      "title": "IoT Workshop Trainer",
+      "organization": "Kementrian Ketenagakerjaan x dibimbing.id",
+      "date": "2025-06",
+      "type": "trainer"
+    },
+    {
+      "id": "train-7",
+      "title": "Private IoT and Data Science Teacher",
+      "organization": "UNSIA Student",
+      "date": "2025-05",
+      "type": "trainer"
+    },
+    {
+      "id": "train-8",
+      "title": "Competitive Programming Workshop Trainer",
+      "organization": "Akademi Digital Bandung",
+      "date": "2025-03",
+      "type": "trainer"
+    },
+    {
+      "id": "train-9",
+      "title": "Basic Programming Workshop Trainer",
+      "organization": "Personal Charity Project",
+      "date": "2025-03",
+      "type": "trainer"
+    },
+    {
+      "id": "train-10",
+      "title": "Speaker at BOOST YOUR BUSINESS: AI UNTUK UMKM NAIK KELAS",
+      "organization": "Pengmas Akademi Digital Bandung",
+      "date": "2024-12",
+      "type": "speaker"
+    },
+    {
+      "id": "train-11",
+      "title": "Conference Moderator",
+      "organization": "International Conference on ICT for Smart Society by ITB",
+      "date": "2024-09",
+      "type": "moderator"
+    },
+    {
+      "id": "train-12",
+      "title": "Data Analytics Workshop Trainer",
+      "organization": "PT Cerebrum Edukanesia Nusantara",
+      "date": "2024-06",
+      "type": "trainer"
+    },
+    {
+      "id": "train-13",
+      "title": "Data Analytics Workshop Trainer",
+      "organization": "Jasa Raharja BOD Candidate by Linxbrain",
+      "date": "2024-03",
+      "type": "trainer"
+    },
+    {
+      "id": "train-14",
+      "title": "Data Analytics Workshop Trainer",
+      "organization": "Diskominfo Employee by Enclave Kolaborasi Global",
+      "date": "2023-12",
+      "type": "trainer"
+    },
+    {
+      "id": "train-15",
+      "title": "Data Analytics Workshop Trainer",
+      "organization": "FEUNM",
+      "date": "2023-09",
+      "type": "trainer"
+    },
+    {
+      "id": "train-16",
+      "title": "Data Analytics Workshop Trainer",
+      "organization": "Diskominfo Employee",
+      "date": "2023-08",
+      "type": "trainer"
+    },
+    {
+      "id": "train-17",
+      "title": "Webinar Speaker in AI Topic",
+      "organization": "UNIBI",
+      "date": "2023-07",
+      "type": "speaker"
+    },
+    {
+      "id": "train-18",
+      "title": "IoT Trainer",
+      "organization": "SMKN 2 Sukoharjo",
+      "date": "2023-02",
+      "type": "trainer"
+    },
+    {
+      "id": "train-19",
+      "title": "Back Office Trainer",
+      "organization": "Daarut Tauhid Boarding School for Female",
+      "date": "2023-01",
+      "type": "trainer"
+    },
+    {
+      "id": "train-20",
+      "title": "Data Science Trainer",
+      "organization": "HMP PL ITB Komisariat 2022/2023",
+      "date": "2022-08",
+      "type": "trainer"
+    },
+    {
+      "id": "train-21",
+      "title": "Excel Trainer",
+      "organization": "Daarut Tauhid Boarding School Civitas Upgrading",
+      "date": "2020-11",
+      "type": "trainer"
+    },
+    {
+      "id": "train-22",
+      "title": "IoT Facilitator",
+      "organization": "Digital Talent Program by Kominfo at ITB",
+      "date": "2019-09",
+      "type": "trainer"
+    },
+    {
+      "id": "train-23",
+      "title": "IoT Facilitator",
+      "organization": "Digital Talent Program by Kominfo at ITB",
+      "date": "2019-07",
+      "type": "trainer"
+    },
+    {
+      "id": "train-24",
+      "title": "FGD Speaker: Fundamental AI and IoT",
+      "organization": "Politeknik Negeri Cilacap",
+      "date": "2025-10",
+      "type": "speaker"
+    }
+  ]
+}

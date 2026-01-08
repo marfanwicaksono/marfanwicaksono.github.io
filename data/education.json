@@ -1,0 +1,57 @@
+{
+  "education": [
+    {
+      "id": "edu-1",
+      "institution": "Bandung Institute of Technology",
+      "degree": "Master of Science",
+      "field": "Informatics",
+      "location": "Bandung, Indonesia",
+      "startDate": "2019-08",
+      "endDate": "2021-12",
+      "gpa": "3.51/4",
+      "achievements": [
+        "Research focus on Wireless Sensor Networks and IoT",
+        "Published multiple research papers on Multimedia IoT",
+        "PPMI Research Grant recipient"
+      ]
+    },
+    {
+      "id": "edu-2",
+      "institution": "Bandung Institute of Technology",
+      "degree": "Bachelor of Science",
+      "field": "Information System and Technology",
+      "location": "Bandung, Indonesia",
+      "startDate": "2014-08",
+      "endDate": "2019-07",
+      "gpa": "3.72/4",
+      "achievements": [
+        "Final Project: Development of Cat Care System Based on Internet of Things",
+        "Silver Prize at d-Camp 2018 Engineering Solution Contest",
+        "Active in organizational and committee activities"
+      ]
+    },
+    {
+      "id": "edu-3",
+      "institution": "SMA Negeri 15 Bandung",
+      "degree": "High School Diploma",
+      "field": "Natural Science Major",
+      "location": "Bandung, Indonesia",
+      "startDate": "2011-07",
+      "endDate": "2014-06",
+      "gpa": "50.7/60",
+      "achievements": []
+    },
+    {
+      "id": "edu-4",
+      "institution": "SMP Negeri 2 Bandung",
+      "degree": "Junior High School Diploma",
+      "field": "General Education",
+      "location": "Bandung, Indonesia",
+      "startDate": "2008-07",
+      "endDate": "2011-06",
+      "gpa": "35.95/40",
+      "achievements": []
+    }
+  ],
+  "certifications": []
+}
