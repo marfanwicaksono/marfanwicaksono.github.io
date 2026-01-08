@@ -53,5 +53,22 @@
       "achievements": []
     }
   ],
-  "certifications": []
+  "certifications": [
+    {
+      "id": "cert-ielts-2025",
+      "name": "IELTS Band 7",
+      "issuer": "British Council",
+      "date": "2025-02",
+      "expiryDate": "2027-02",
+      "credentialId": "24ID516923WICM195A",
+      "visible": true
+    },
+    {
+      "id": "cert-efset-2025",
+      "name": "Sertifikat EF SET Bahasa inggris 81/100 (C2 Mahir)",
+      "issuer": "EF SET",
+      "date": "2025-01",
+      "visible": true
+    }
+  ]
 }
