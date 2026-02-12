@@ -14,7 +14,7 @@
         "Machine Learning Trainer for Kementrian PU programs",
         "Developing AI/ML solutions for urban development projects"
       ],
-      "technologies": ["Python", "Machine Learning", "TensorFlow", "Data Science"]
+      "expertise": ["Python", "Machine Learning", "TensorFlow", "Data Science"]
     },
     {
       "id": "exp-2",
@@ -31,7 +31,7 @@
         "Organizing workshops on Competitive Programming and AI",
         "Community engagement through BOOST YOUR BUSINESS programs"
       ],
-      "technologies": ["Software Engineering", "Education", "Programming"]
+      "expertise": ["Software Engineering", "Education", "Programming"]
     },
     {
       "id": "exp-3",
@@ -47,7 +47,7 @@
         "Developed AI-based Proposal Checker Platform",
         "Conducted Data Analytics workshops for government and corporate clients"
       ],
-      "technologies": ["Data Analytics", "AI", "Project Management"]
+      "expertise": ["Data Analytics", "AI", "Project Management"]
     },
     {
       "id": "exp-4",
@@ -63,7 +63,7 @@
         "Supporting academic programs and student activities",
         "Contributing to research projects"
       ],
-      "technologies": ["Research", "Teaching", "Academic Support"]
+      "expertise": ["Research", "Teaching", "Academic Support"]
     },
     {
       "id": "exp-5",
@@ -80,7 +80,7 @@
         "Led research on CoAP communication methods for IoT",
         "Developed ML-based video delivery optimization systems"
       ],
-      "technologies": ["IoT", "Machine Learning", "Wireless Sensor Networks", "Python", "Research"]
+      "expertise": ["IoT", "Machine Learning", "Wireless Sensor Networks", "Python", "Research"]
     },
     {
       "id": "exp-6",
@@ -96,7 +96,7 @@
         "Conducted research on network security solutions",
         "Contributed to R&D initiatives"
       ],
-      "technologies": ["Network Security", "R&D"]
+      "expertise": ["Network Security", "R&D"]
     }
   ]
 }

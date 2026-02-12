@@ -8,7 +8,7 @@
           "name": "Machine Learning",
           "icon": "brain",
           "experience": "5+ years",
-          "technologies": ["Scikit-learn", "TensorFlow", "PyTorch", "XGBoost"],
+          "expertise": ["Scikit-learn", "TensorFlow", "PyTorch", "XGBoost"],
           "capabilities": [
             "Built ML-based frame resolution adjustment for IoT video optimization",
             "Developed predictive models for multimedia delivery systems",
@@ -25,7 +25,7 @@
           "name": "Deep Learning & CNN",
           "icon": "network",
           "experience": "4+ years",
-          "technologies": ["TensorFlow", "Keras", "PyTorch", "Inception-V3"],
+          "expertise": ["TensorFlow", "Keras", "PyTorch", "Inception-V3"],
           "capabilities": [
             "Developed CNN models for music genre classification",
             "Built computer vision systems for plant disease detection",
@@ -39,7 +39,7 @@
           "name": "Computer Vision",
           "icon": "eye",
           "experience": "4+ years",
-          "technologies": ["OpenCV", "CNN", "RFID", "Python"],
+          "expertise": ["OpenCV", "CNN", "RFID", "Python"],
           "capabilities": [
             "Developing AIoT attendance system with CV and RFID",
             "Built image processing for hydroponic plant monitoring",
@@ -53,7 +53,7 @@
           "name": "Data Science & Analytics",
           "icon": "chart",
           "experience": "6+ years",
-          "technologies": ["Python", "Pandas", "NumPy", "Matplotlib", "SQL"],
+          "expertise": ["Python", "Pandas", "NumPy", "Matplotlib", "SQL"],
           "capabilities": [
             "Conducted data analytics workshops for government agencies",
             "Analyzed QoE metrics for multimedia IoT systems",
@@ -72,7 +72,7 @@
           "name": "IoT System Architecture",
           "icon": "cpu",
           "experience": "7+ years",
-          "technologies": ["CoAP", "MQTT", "WSN", "Edge Computing", "Cloud IoT"],
+          "expertise": ["CoAP", "MQTT", "WSN", "Edge Computing", "Cloud IoT"],
           "capabilities": [
             "Designed software-defined wireless multimedia sensor networks",
             "Built end-to-end IoT solutions from sensors to cloud",
@@ -89,7 +89,7 @@
           "name": "RFID Technology",
           "icon": "radio",
           "experience": "3+ years",
-          "technologies": ["RFID Readers", "NFC", "IoT Integration", "Computer Vision"],
+          "expertise": ["RFID Readers", "NFC", "IoT Integration", "Computer Vision"],
           "capabilities": [
             "Developing campus attendance system with RFID and CV",
             "Integrated RFID with QoE and accountability measures"
@@ -101,7 +101,7 @@
           "name": "Wireless Sensor Networks",
           "icon": "wifi",
           "experience": "6+ years",
-          "technologies": ["CoAP", "6LoWPAN", "SDN", "WSN Protocols"],
+          "expertise": ["CoAP", "6LoWPAN", "SDN", "WSN Protocols"],
           "capabilities": [
             "Optimized multimedia delivery on WSN for IoT",
             "Developed SDN-based WSN management systems",
@@ -115,7 +115,7 @@
           "name": "Embedded Systems",
           "icon": "microchip",
           "experience": "6+ years",
-          "technologies": ["Arduino", "ESP32", "Raspberry Pi", "Sensors", "Actuators"],
+          "expertise": ["Arduino", "ESP32", "Raspberry Pi", "Sensors", "Actuators"],
           "capabilities": [
             "Built cat care system with automated feeding and monitoring",
             "Developed hydroponic monitoring with environmental sensors",
@@ -136,7 +136,7 @@
           "name": "Python",
           "icon": "python",
           "experience": "7+ years",
-          "technologies": ["Django", "FastAPI", "NumPy", "Pandas", "Matplotlib", "TensorFlow"],
+          "expertise": ["Django", "FastAPI", "NumPy", "Pandas", "Matplotlib", "TensorFlow"],
           "capabilities": [
             "Built ML pipelines and data processing systems",
             "Developed APIs for IoT data collection and analysis",
@@ -150,7 +150,7 @@
           "name": "Web Development",
           "icon": "web",
           "experience": "5+ years",
-          "technologies": ["JavaScript", "React", "Node.js", "REST APIs"],
+          "expertise": ["JavaScript", "React", "Node.js", "REST APIs"],
           "capabilities": [
             "Built responsive web applications for IoT monitoring",
             "Developed dashboards for real-time sensor data visualization",
@@ -163,7 +163,7 @@
           "name": "Database Management",
           "icon": "database",
           "experience": "6+ years",
-          "technologies": ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
+          "expertise": ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
           "capabilities": [
             "Designed databases for IoT time-series data storage",
             "Optimized queries for real-time analytics",
@@ -181,7 +181,7 @@
           "name": "Academic Research",
           "icon": "research",
           "experience": "7+ years",
-          "technologies": ["LaTeX", "Research Methodology", "Statistical Analysis"],
+          "expertise": ["LaTeX", "Research Methodology", "Statistical Analysis"],
           "capabilities": [
             "Published 15+ papers in international journals and conferences",
             "Led 6+ funded research projects (national and institutional)",
@@ -195,7 +195,7 @@
           "name": "Teaching & Training",
           "icon": "write",
           "experience": "5+ years",
-          "technologies": ["Curriculum Development", "Workshop Design", "Mentoring"],
+          "expertise": ["Curriculum Development", "Workshop Design", "Mentoring"],
           "capabilities": [
             "Head of Software Engineering Technology Department",
             "Trained 100+ professionals in ML, IoT, and Data Science",
@@ -208,7 +208,7 @@
           "name": "Project Management",
           "icon": "project",
           "experience": "5+ years",
-          "technologies": ["Agile", "Scrum", "Research Planning", "Team Leadership"],
+          "expertise": ["Agile", "Scrum", "Research Planning", "Team Leadership"],
           "capabilities": [
             "Led multi-institutional research collaborations",
             "Managed knowledge initiatives and expert consultations",
