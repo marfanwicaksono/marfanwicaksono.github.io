@@ -10,7 +10,8 @@
       "startDate": "2025-03",
       "endDate": "2025-07",
       "featured": true,
-      "category": "iot"
+      "category": "iot",
+      "tags": ["IoT", "RFID", "Computer Vision", "AIoT", "QoE", "Campus System", "Smart Attendance", "Python", "Machine Learning", "Kemdiktisaintek"]
     },
     {
       "id": "project-2",
@@ -22,7 +23,8 @@
       "startDate": "2024-05",
       "endDate": "2024-08",
       "featured": true,
-      "category": "ai"
+      "category": "ai",
+      "tags": ["AI", "NLP", "Machine Learning", "Python", "Proposal Evaluation", "Business Intelligence", "Linxbrain"]
     },
     {
       "id": "project-3",
@@ -34,7 +36,8 @@
       "startDate": "2017-08",
       "endDate": "2018-12",
       "featured": true,
-      "category": "iot"
+      "category": "iot",
+      "tags": ["IoT", "Arduino", "Sensors", "Pet Care", "Automation", "Mobile App", "Cloud", "ICEEI 2019", "Copyright"]
     },
     {
       "id": "project-4",
@@ -46,7 +49,8 @@
       "startDate": "2017-02",
       "endDate": "2017-06",
       "featured": false,
-      "category": "design"
+      "category": "design",
+      "tags": ["Enterprise Architecture", "Business Process", "System Design", "Radio-B", "TOGAF"]
     },
     {
       "id": "project-5",
@@ -58,7 +62,8 @@
       "startDate": "2017-01",
       "endDate": "2017-06",
       "featured": false,
-      "category": "design"
+      "category": "design",
+      "tags": ["Healthcare IT", "System Design", "Database Design", "Medical Records", "Patient Management", "Multimedia"]
     },
     {
       "id": "project-6",
@@ -70,7 +75,8 @@
       "startDate": "2016-08",
       "endDate": "2016-12",
       "featured": false,
-      "category": "web"
+      "category": "web",
+      "tags": ["Web Design", "Information System", "Database", "Siete Cafe", "Requirement Analysis", "Restaurant Management"]
     },
     {
       "id": "project-7",
@@ -82,7 +88,8 @@
       "startDate": "2016-08",
       "endDate": "2016-12",
       "featured": false,
-      "category": "web"
+      "category": "web",
+      "tags": ["Delivery System", "Food Delivery", "E-commerce", "System Design", "Payment Integration", "Chinese Food", "Mulya Cirebon"]
     },
     {
       "id": "project-8",
@@ -94,7 +101,8 @@
       "startDate": "2016-08",
       "endDate": "2016-12",
       "featured": false,
-      "category": "web"
+      "category": "web",
+      "tags": ["Hotel Management", "Reservation System", "PHP", "MySQL", "Web Development", "Booking", "Software Engineering"]
     },
     {
       "id": "project-9",
@@ -106,7 +114,8 @@
       "startDate": "2016-01",
       "endDate": "2016-05",
       "featured": false,
-      "category": "design"
+      "category": "design",
+      "tags": ["Education", "Student Monitoring", "School Management", "Attendance", "Grade Management", "Salman Al-Farisi"]
     },
     {
       "id": "project-10",
@@ -118,7 +127,8 @@
       "startDate": "2016-01",
       "endDate": "2016-05",
       "featured": false,
-      "category": "design"
+      "category": "design",
+      "tags": ["Booking System", "Futsal", "Reservation", "Scheduling", "Project Management", "Sports Management", "Payment Processing"]
     },
     {
       "id": "project-11",
@@ -130,7 +140,8 @@
       "startDate": "2016-03",
       "endDate": "2016-05",
       "featured": false,
-      "category": "development"
+      "category": "development",
+      "tags": ["Java", "Game Development", "OOP", "Harvest Moon", "Programming", "Simulation"]
     },
     {
       "id": "project-12",
@@ -142,7 +153,34 @@
       "startDate": "2015-10",
       "endDate": "2015-12",
       "featured": false,
-      "category": "database"
+      "category": "database",
+      "tags": ["Database", "SQL", "Airline", "Flight Management", "ERD", "Data Modeling", "Booking System"]
+    },
+    {
+      "id": "project-13",
+      "title": "MHoney Website",
+      "description": "Web application for MHoney (mhoney.id) built with React and Tailwind CSS.",
+      "longDescription": "Developed a modern web application for MHoney (mhoney.id) using React JS and Tailwind CSS. The project includes SEO optimization and Google Analytics integration for comprehensive performance tracking and user behavior analysis.",
+      "expertise": ["React", "Tailwind CSS", "SEO", "Google Analytics"],
+      "organization": "Freelance Project",
+      "startDate": "2025-08",
+      "endDate": "2025-10",
+      "featured": true,
+      "category": "web",
+      "tags": ["React", "Tailwind CSS", "SEO", "Google Analytics", "Web Development", "MHoney", "Freelance", "Frontend"]
+    },
+    {
+      "id": "project-14",
+      "title": "Invoice Generated",
+      "description": "AI-powered invoice generation platform built with React, Hono, and Cloudflare.",
+      "longDescription": "Developed invoicegenerated.com as a personal hobby project featuring a React frontend and Hono backend deployed on Cloudflare Pages and Workers. The platform integrates AI capabilities to streamline invoice creation and management processes with modern web technologies.",
+      "expertise": ["React", "Hono", "Cloudflare Pages", "Cloudflare Workers", "AI Integration"],
+      "organization": "Personal Hobby Project",
+      "startDate": "2025-08",
+      "endDate": "present",
+      "featured": true,
+      "category": "web",
+      "tags": ["React", "Hono", "Cloudflare", "AI", "Invoice", "Fullstack", "Serverless", "Workers", "Pages", "Hobby Project"]
     }
   ]
 }

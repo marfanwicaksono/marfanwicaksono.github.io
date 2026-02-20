@@ -5,168 +5,192 @@
       "title": "IoT Instructor",
       "organization": "Samsung Innovation Campus x dibimbing.id",
       "date": "2025-10",
-      "type": "instructor"
+      "type": "instructor",
+      "tags": ["IoT", "Instructor", "Samsung", "dibimbing.id", "Teaching", "Training"]
     },
     {
       "id": "train-2",
       "title": "IoT Mentor",
       "organization": "Samsung Innovation Campus x dibimbing.id",
       "date": "2025-09",
-      "type": "mentor"
+      "type": "mentor",
+      "tags": ["IoT", "Mentor", "Samsung", "dibimbing.id", "Teaching", "Guidance"]
     },
     {
       "id": "train-3",
       "title": "Speaker at Workshop AI & Data Science",
       "organization": "Pengmas Akademi Digital Bandung",
       "date": "2025-08",
-      "type": "speaker"
+      "type": "speaker",
+      "tags": ["AI", "Data Science", "Speaker", "Workshop", "Pengmas", "Akademi Digital Bandung"]
     },
     {
       "id": "train-4",
       "title": "Speaker at AI and IoT Webinar",
       "organization": "Samsung Innovation Campus x dibimbing.id",
       "date": "2025-08",
-      "type": "speaker"
+      "type": "speaker",
+      "tags": ["AI", "IoT", "Speaker", "Webinar", "Samsung", "dibimbing.id"]
     },
     {
       "id": "train-5",
       "title": "Machine Learning Trainer",
       "organization": "Kementrian PU x UrbanSolv",
       "date": "2025-07",
-      "type": "trainer"
+      "type": "trainer",
+      "tags": ["Machine Learning", "Trainer", "UrbanSolv", "Kementrian PU", "AI Training"]
     },
     {
       "id": "train-6",
       "title": "IoT Workshop Trainer",
       "organization": "Kementrian Ketenagakerjaan x dibimbing.id",
       "date": "2025-06",
-      "type": "trainer"
+      "type": "trainer",
+      "tags": ["IoT", "Workshop", "Trainer", "dibimbing.id", "Kementrian Ketenagakerjaan"]
     },
     {
       "id": "train-7",
       "title": "Private IoT and Data Science Teacher",
       "organization": "UNSIA Student",
       "date": "2025-05",
-      "type": "trainer"
+      "type": "trainer",
+      "tags": ["IoT", "Data Science", "Private Teacher", "UNSIA", "Education"]
     },
     {
       "id": "train-8",
       "title": "Competitive Programming Workshop Trainer",
       "organization": "Akademi Digital Bandung",
       "date": "2025-03",
-      "type": "trainer"
+      "type": "trainer",
+      "tags": ["Programming", "Competitive", "Workshop", "Trainer", "Akademi Digital Bandung"]
     },
     {
       "id": "train-9",
       "title": "Basic Programming Workshop Trainer",
       "organization": "Personal Charity Project",
       "date": "2025-03",
-      "type": "trainer"
+      "type": "trainer",
+      "tags": ["Programming", "Workshop", "Trainer", "Charity", "Basic Programming", "Education"]
     },
     {
       "id": "train-10",
       "title": "Speaker at BOOST YOUR BUSINESS: AI UNTUK UMKM NAIK KELAS",
       "organization": "Pengmas Akademi Digital Bandung",
       "date": "2024-12",
-      "type": "speaker"
+      "type": "speaker",
+      "tags": ["AI", "Speaker", "Business", "UMKM", "Pengmas", "Akademi Digital Bandung"]
     },
     {
       "id": "train-11",
       "title": "Conference Moderator",
       "organization": "International Conference on ICT for Smart Society by ITB",
       "date": "2024-09",
-      "type": "moderator"
+      "type": "moderator",
+      "tags": ["Moderator", "Conference", "ICT", "Smart Society", "ITB", "International"]
     },
     {
       "id": "train-12",
       "title": "Data Analytics Workshop Trainer",
-      "organization": "PT Cerebrum Edukanesia Nusantara",
+      "organization": "PT Cerebrum Edukasiesia Nusantara",
       "date": "2024-06",
-      "type": "trainer"
+      "type": "trainer",
+      "tags": ["Data Analytics", "Workshop", "Trainer", "Cerebrum", "Education"]
     },
     {
       "id": "train-13",
       "title": "Data Analytics Workshop Trainer",
       "organization": "Jasa Raharja BOD Candidate by Linxbrain",
       "date": "2024-03",
-      "type": "trainer"
+      "type": "trainer",
+      "tags": ["Data Analytics", "Workshop", "Trainer", "Jasa Raharja", "Linxbrain"]
     },
     {
       "id": "train-14",
       "title": "Data Analytics Workshop Trainer",
       "organization": "Diskominfo Employee by Enclave Kolaborasi Global",
       "date": "2023-12",
-      "type": "trainer"
+      "type": "trainer",
+      "tags": ["Data Analytics", "Workshop", "Trainer", "Diskominfo", "EKG", "Government"]
     },
     {
       "id": "train-15",
       "title": "Data Analytics Workshop Trainer",
       "organization": "FEUNM",
       "date": "2023-09",
-      "type": "trainer"
+      "type": "trainer",
+      "tags": ["Data Analytics", "Workshop", "Trainer", "FEUNM", "Education"]
     },
     {
       "id": "train-16",
       "title": "Data Analytics Workshop Trainer",
       "organization": "Diskominfo Employee",
       "date": "2023-08",
-      "type": "trainer"
+      "type": "trainer",
+      "tags": ["Data Analytics", "Workshop", "Trainer", "Diskominfo", "Government"]
     },
     {
       "id": "train-17",
       "title": "Webinar Speaker in AI Topic",
       "organization": "UNIBI",
       "date": "2023-07",
-      "type": "speaker"
+      "type": "speaker",
+      "tags": ["AI", "Speaker", "Webinar", "UNIBI", "Education"]
     },
     {
       "id": "train-18",
       "title": "IoT Trainer",
       "organization": "SMKN 2 Sukoharjo",
       "date": "2023-02",
-      "type": "trainer"
+      "type": "trainer",
+      "tags": ["IoT", "Trainer", "SMKN", "Vocational", "Education"]
     },
     {
       "id": "train-19",
       "title": "Back Office Trainer",
       "organization": "Daarut Tauhid Boarding School for Female",
       "date": "2023-01",
-      "type": "trainer"
+      "type": "trainer",
+      "tags": ["Back Office", "Trainer", "Daarut Tauhid", "Boarding School", "Education"]
     },
     {
       "id": "train-20",
       "title": "Data Science Trainer",
       "organization": "HMP PL ITB Komisariat 2022/2023",
       "date": "2022-08",
-      "type": "trainer"
+      "type": "trainer",
+      "tags": ["Data Science", "Trainer", "ITB", "HMP", "Education"]
     },
     {
       "id": "train-21",
       "title": "Excel Trainer",
       "organization": "Daarut Tauhid Boarding School Civitas Upgrading",
       "date": "2020-11",
-      "type": "trainer"
+      "type": "trainer",
+      "tags": ["Excel", "Trainer", "Daarut Tauhid", "Upgrading", "Microsoft Office"]
     },
     {
       "id": "train-22",
       "title": "IoT Facilitator",
       "organization": "Digital Talent Program by Kominfo at ITB",
       "date": "2019-09",
-      "type": "trainer"
+      "type": "trainer",
+      "tags": ["IoT", "Facilitator", "Digital Talent", "Kominfo", "ITB", "Government"]
     },
     {
       "id": "train-23",
       "title": "IoT Facilitator",
       "organization": "Digital Talent Program by Kominfo at ITB",
       "date": "2019-07",
-      "type": "trainer"
+      "type": "trainer",
+      "tags": ["IoT", "Facilitator", "Digital Talent", "Kominfo", "ITB", "Government"]
     },
     {
       "id": "train-24",
       "title": "FGD Speaker: Fundamental AI and IoT",
       "organization": "Politeknik Negeri Cilacap",
       "date": "2025-10",
-      "type": "speaker"
+      "type": "speaker",
+      "tags": ["AI", "IoT", "Speaker", "FGD", "Politeknik", "Cilacap", "Education"]
     }
   ]
 }

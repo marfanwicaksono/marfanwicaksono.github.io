@@ -2,19 +2,20 @@
   "experiences": [
     {
       "id": "exp-1",
-      "company": "Urbansolv",
+      "company": "UrbanSolv",
       "position": "AI/ML Specialist & Trainer",
       "location": "Indonesia",
       "type": "full-time",
       "startDate": "2025-07",
-      "endDate": null,
-      "current": true,
+      "endDate": "2025-10",
+      "current": false,
       "description": "Leading AI and Machine Learning initiatives, providing training and consultation on ML implementation for various projects.",
       "achievements": [
         "Machine Learning Trainer for Kementrian PU programs",
         "Developing AI/ML solutions for urban development projects"
       ],
-      "expertise": ["Python", "Machine Learning", "TensorFlow", "Data Science"]
+      "expertise": ["Python", "Machine Learning", "TensorFlow", "Data Science"],
+      "tags": ["AI", "Machine Learning", "Python", "TensorFlow", "UrbanSolv", "Trainer", "Specialist"]
     },
     {
       "id": "exp-2",
@@ -25,13 +26,14 @@
       "startDate": "2024-10",
       "endDate": null,
       "current": true,
-      "description": "Leading the Software Engineering Technology department, developing curriculum and training programs for digital skills education.",
+      "description": "Leading Software Engineering Technology department, developing curriculum and training programs for digital skills education.",
       "achievements": [
         "Leading software engineering education initiatives",
         "Organizing workshops on Competitive Programming and AI",
         "Community engagement through BOOST YOUR BUSINESS programs"
       ],
-      "expertise": ["Software Engineering", "Education", "Programming"]
+      "expertise": ["Software Engineering", "Education", "Programming"],
+      "tags": ["Software Engineering", "Education", "Head of Department", "Akademi Digital", "Curriculum", "Leadership"]
     },
     {
       "id": "exp-3",
@@ -40,14 +42,15 @@
       "location": "Indonesia",
       "type": "full-time",
       "startDate": "2023-11",
-      "endDate": null,
-      "current": true,
+      "endDate": "2025-10",
+      "current": false,
       "description": "Managing knowledge initiatives and providing expert consultation on data analytics and AI projects.",
       "achievements": [
         "Developed AI-based Proposal Checker Platform",
         "Conducted Data Analytics workshops for government and corporate clients"
       ],
-      "expertise": ["Data Analytics", "AI", "Project Management"]
+      "expertise": ["Data Analytics", "AI", "Project Management"],
+      "tags": ["Knowledge Management", "Data Analytics", "AI", "Head of Knowledge", "EKG", "Consulting", "Expert"]
     },
     {
       "id": "exp-4",
@@ -58,12 +61,13 @@
       "startDate": "2023-08",
       "endDate": "2024-12",
       "current": false,
-      "description": "Assisting in academic activities and research support at the School of Electrical Engineering and Informatics.",
+      "description": "Assisting in academic activities and research support at School of Electrical Engineering and Informatics.",
       "achievements": [
         "Supporting academic programs and student activities",
         "Contributing to research projects"
       ],
-      "expertise": ["Research", "Teaching", "Academic Support"]
+      "expertise": ["Research", "Teaching", "Academic Support"],
+      "tags": ["Academic", "Assistant", "ITB", "STEI", "Research Support", "Teaching", "Part-time"]
     },
     {
       "id": "exp-5",
@@ -80,11 +84,12 @@
         "Led research on CoAP communication methods for IoT",
         "Developed ML-based video delivery optimization systems"
       ],
-      "expertise": ["IoT", "Machine Learning", "Wireless Sensor Networks", "Python", "Research"]
+      "expertise": ["IoT", "Machine Learning", "Wireless Sensor Networks", "Python", "Research"],
+      "tags": ["Research", "IoT", "WSN", "Machine Learning", "ITB", "Laboratory", "DSP-MC", "Publications"]
     },
     {
       "id": "exp-6",
-      "company": "PT Indo Cisc Network Security Consultant",
+      "company": "PT Indo Cis Cisco Network Security Consultant",
       "position": "Research and Development Intern",
       "location": "Indonesia",
       "type": "internship",
@@ -96,7 +101,8 @@
         "Conducted research on network security solutions",
         "Contributed to R&D initiatives"
       ],
-      "expertise": ["Network Security", "R&D"]
+      "expertise": ["Network Security", "R&D"],
+      "tags": ["Internship", "Network Security", "R&D", "Indo Cis", "Cisco", "Security", "Research"]
     }
   ]
 }

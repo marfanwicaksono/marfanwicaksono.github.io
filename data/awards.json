@@ -7,7 +7,8 @@
       "organizer": "Universitas Sriwijaya",
       "level": "National",
       "date": "2017-10",
-      "description": "Second place winner in the Business IT-Case Competition at national level."
+      "description": "Second place winner in the Business IT-Case Competition at national level.",
+      "tags": ["Competition", "Business IT", "Techphoria", "Sriwijaya", "National", "Winner"]
     },
     {
       "id": "award-2",
@@ -16,7 +17,8 @@
       "organizer": "Innovation Hub Center for Engineering Education (IHCEE) Chonbuk National University",
       "level": "International",
       "date": "2018-08",
-      "description": "Silver prize in international engineering solution contest held in South Korea."
+      "description": "Silver prize in international engineering solution contest held in South Korea.",
+      "tags": ["Engineering", "Competition", "d-Camp", "IHCEE", "Chonbuk", "International", "Silver Prize", "South Korea"]
     },
     {
       "id": "award-3",
@@ -25,7 +27,8 @@
       "organizer": "Innovation Hub Center for Engineering Education (IHCEE) Chonbuk National University",
       "level": "International",
       "date": "2018-08",
-      "description": "Participation award in international capstone design project competition."
+      "description": "Participation award in international capstone design project competition.",
+      "tags": ["Capstone", "Design", "Competition", "i-CAPS", "IHCEE", "Chonbuk", "International", "South Korea"]
     }
   ],
   "organizations": [
@@ -34,14 +37,16 @@
       "position": "Head of Human Resource Management",
       "organization": "Lingkung Seni Sunda (LSS) ITB",
       "startDate": "2016-09",
-      "endDate": "2017-09"
+      "endDate": "2017-09",
+      "tags": ["HR", "Management", "Lingkung Seni Sunda", "LSS", "ITB", "Organization", "Leadership"]
     },
     {
       "id": "org-2",
       "position": "Vice Head of Intra-Campus Division",
       "organization": "Himpunan Mahasiswa Informatika (HMIF) ITB",
       "startDate": "2015-02",
-      "endDate": "2016-01"
+      "endDate": "2016-01",
+      "tags": ["HMIF", "ITB", "Intra-Campus", "Organization", "Leadership", "Student Association"]
     }
   ],
   "committee": [
@@ -50,21 +55,24 @@
       "position": "Head of Logistics Division",
       "event": "Arkavidia Informatics and IT Festival",
       "organization": "HMIF ITB",
-      "date": "2016"
+      "date": "2016",
+      "tags": ["Arkavidia", "Logistics", "HMIF", "ITB", "Festival", "Committee", "Event Management"]
     },
     {
       "id": "com-2",
       "position": "Chairman",
       "event": "HMIF July Graduation 2016",
       "organization": "HMIF ITB",
-      "date": "2016"
+      "date": "2016",
+      "tags": ["Graduation", "HMIF", "ITB", "Chairman", "Event", "Committee", "Leadership"]
     },
     {
       "id": "com-3",
       "position": "General Secretary",
       "event": "New LSS ITB Member Recruitment 2015",
       "organization": "LSS ITB",
-      "date": "2015"
+      "date": "2015",
+      "tags": ["Recruitment", "Secretary", "LSS", "ITB", "Committee", "Event Management", "Organization"]
     }
   ]
 }

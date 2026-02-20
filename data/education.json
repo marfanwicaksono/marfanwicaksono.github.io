@@ -13,7 +13,8 @@
         "Research focus on Wireless Sensor Networks and IoT",
         "Published multiple research papers on Multimedia IoT",
         "PPMI Research Grant recipient"
-      ]
+      ],
+      "tags": ["Master", "ITB", "Informatics", "WSN", "IoT", "Research", "PPMI", "Academic"]
     },
     {
       "id": "edu-2",
@@ -28,7 +29,8 @@
         "Final Project: Development of Cat Care System Based on Internet of Things",
         "Silver Prize at d-Camp 2018 Engineering Solution Contest",
         "Active in organizational and committee activities"
-      ]
+      ],
+      "tags": ["Bachelor", "ITB", "Information Systems", "IoT", "d-Camp", "Engineering", "Academic"]
     },
     {
       "id": "edu-3",
@@ -39,7 +41,8 @@
       "startDate": "2011-07",
       "endDate": "2014-06",
       "gpa": "50.7/60",
-      "achievements": []
+      "achievements": [],
+      "tags": ["High School", "SMA 15", "Natural Science", "Bandung", "Secondary Education"]
     },
     {
       "id": "edu-4",
@@ -50,7 +53,8 @@
       "startDate": "2008-07",
       "endDate": "2011-06",
       "gpa": "35.95/40",
-      "achievements": []
+      "achievements": [],
+      "tags": ["Junior High", "SMP 2", "General Education", "Bandung", "Secondary Education"]
     }
   ],
   "certifications": [
@@ -61,14 +65,16 @@
       "date": "2025-02",
       "expiryDate": "2027-02",
       "credentialId": "24ID516923WICM195A",
-      "visible": true
+      "visible": true,
+      "tags": ["IELTS", "English", "Certification", "British Council", "Language Proficiency", "Band 7"]
     },
     {
       "id": "cert-efset-2025",
-      "name": "Sertifikat EF SET Bahasa inggris 81/100 (C2 Mahir)",
+      "name": "Sertifikat EF SET Bahasa Inggris 81/100 (C2 Mahir)",
       "issuer": "EF SET",
       "date": "2025-01",
-      "visible": true
+      "visible": true,
+      "tags": ["EF SET", "English", "Certification", "C2", "Language Proficiency", "Bahasa Inggris"]
     }
   ]
 }

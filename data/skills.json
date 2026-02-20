@@ -19,7 +19,8 @@
           "relatedPublications": ["pub-5"],
           "relatedResearch": ["res-4"],
           "relatedTraining": ["train-5"],
-          "relatedEducation": ["edu-1"]
+          "relatedEducation": ["edu-1"],
+          "tags": ["Machine Learning", "Scikit-learn", "TensorFlow", "PyTorch", "XGBoost", "AI", "Python", "Data Science"]
         },
         {
           "name": "Deep Learning & CNN",
@@ -33,7 +34,8 @@
           ],
           "relatedProjects": ["project-5", "project-6"],
           "relatedPublications": ["pub-3", "pub-6"],
-          "relatedEducation": ["edu-1", "edu-2"]
+          "relatedEducation": ["edu-1", "edu-2"],
+          "tags": ["Deep Learning", "CNN", "TensorFlow", "Keras", "PyTorch", "Neural Networks", "Computer Vision", "AI"]
         },
         {
           "name": "Computer Vision",
@@ -47,7 +49,8 @@
           ],
           "relatedProjects": ["project-1", "project-5"],
           "relatedResearch": ["res-1"],
-          "relatedEducation": ["edu-1"]
+          "relatedEducation": ["edu-1"],
+          "tags": ["Computer Vision", "OpenCV", "CNN", "RFID", "Python", "Object Detection", "Image Processing", "AIoT"]
         },
         {
           "name": "Data Science & Analytics",
@@ -60,7 +63,31 @@
             "Built data pipelines for IoT sensor networks"
           ],
           "relatedExperience": ["exp-3"],
-          "relatedTraining": ["train-3"]
+          "relatedTraining": ["train-3"],
+          "tags": ["Data Science", "Python", "Pandas", "NumPy", "Matplotlib", "SQL", "Analytics", "Big Data", "QoE"]
+        },
+        {
+          "name": "Agentic Coding",
+          "icon": "code",
+          "experience": "2+ years",
+          "expertise": [
+            "GitHub Copilot",
+            "Claude Code",
+            "GLM Code",
+            "Claude Haiku",
+            "Claude Sonnet",
+            "Claude Opus",
+            "GPT Codex"
+          ],
+          "capabilities": [
+            "Leverage AI coding agents for rapid prototyping and development",
+            "Utilize multiple LLM models for code generation and review",
+            "Implement agentic workflows for automated testing and debugging",
+            "Integrate AI pair programming into daily development workflow"
+          ],
+          "relatedProjects": ["project-2", "project-3"],
+          "relatedExperience": ["exp-1", "exp-2", "exp-3"],
+          "tags": ["AI Coding", "GitHub Copilot", "Claude", "LLM", "Pair Programming", "Code Generation", "GPT Codex", "GLM"]
         }
       ]
     },
@@ -83,7 +110,8 @@
           "relatedPublications": ["pub-2", "pub-4", "pub-5"],
           "relatedResearch": ["res-1", "res-3", "res-4", "res-5", "res-6"],
           "relatedTraining": ["train-1", "train-2", "train-4", "train-6"],
-          "relatedEducation": ["edu-1", "edu-2"]
+          "relatedEducation": ["edu-1", "edu-2"],
+          "tags": ["IoT", "CoAP", "MQTT", "WSN", "Edge Computing", "Cloud IoT", "Sensor Networks", "Architecture"]
         },
         {
           "name": "RFID Technology",
@@ -95,7 +123,8 @@
             "Integrated RFID with QoE and accountability measures"
           ],
           "relatedProjects": ["project-1"],
-          "relatedResearch": ["res-1"]
+          "relatedResearch": ["res-1"],
+          "tags": ["RFID", "NFC", "IoT", "Attendance System", "Computer Vision", "QoE", "Smart Campus"]
         },
         {
           "name": "Wireless Sensor Networks",
@@ -109,7 +138,8 @@
           ],
           "relatedPublications": ["pub-4"],
           "relatedResearch": ["res-3", "res-5", "res-6"],
-          "relatedEducation": ["edu-1"]
+          "relatedEducation": ["edu-1"],
+          "tags": ["WSN", "Wireless Sensor Networks", "CoAP", "6LoWPAN", "SDN", "QoS", "Multimedia", "IoT"]
         },
         {
           "name": "Embedded Systems",
@@ -124,7 +154,8 @@
           "relatedProjects": ["project-4", "project-5"],
           "relatedTraining": ["train-1", "train-6"],
           "relatedEducation": ["edu-2"],
-          "relatedAwards": ["award-2"]
+          "relatedAwards": ["award-2"],
+          "tags": ["Embedded Systems", "Arduino", "ESP32", "Raspberry Pi", "Sensors", "IoT", "Automation", "Smart Agriculture"]
         }
       ]
     },
@@ -144,7 +175,8 @@
           ],
           "relatedExperience": ["exp-1", "exp-3"],
           "relatedProjects": ["project-2", "project-3", "project-5"],
-          "relatedEducation": ["edu-1", "edu-2"]
+          "relatedEducation": ["edu-1", "edu-2"],
+          "tags": ["Python", "Django", "FastAPI", "NumPy", "Pandas", "Matplotlib", "TensorFlow", "Backend", "API"]
         },
         {
           "name": "Web Development",
@@ -157,7 +189,8 @@
             "Created educational platforms and competition systems"
           ],
           "relatedExperience": ["exp-2", "exp-3"],
-          "relatedProjects": ["project-2"]
+          "relatedProjects": ["project-2"],
+          "tags": ["Web Development", "JavaScript", "React", "Node.js", "REST APIs", "Frontend", "Fullstack", "Dashboard"]
         },
         {
           "name": "Database Management",
@@ -169,7 +202,8 @@
             "Optimized queries for real-time analytics",
             "Implemented data pipelines for sensor networks"
           ],
-          "relatedProjects": ["project-1", "project-2", "project-3"]
+          "relatedProjects": ["project-1", "project-2", "project-3"],
+          "tags": ["Database", "MySQL", "PostgreSQL", "MongoDB", "Redis", "SQL", "NoSQL", "Data Engineering", "Time Series"]
         }
       ]
     },
@@ -189,7 +223,8 @@
           ],
           "relatedResearch": ["res-1", "res-2", "res-3", "res-4", "res-5", "res-6"],
           "relatedPublications": ["pub-1", "pub-2", "pub-3", "pub-4", "pub-5"],
-          "relatedEducation": ["edu-1"]
+          "relatedEducation": ["edu-1"],
+          "tags": ["Research", "Academic", "LaTeX", "Publications", "IoT Research", "ML Research", "WSN Research", "Scientific Writing"]
         },
         {
           "name": "Teaching & Training",
@@ -202,7 +237,8 @@
             "Delivered workshops for Samsung, government agencies, and universities"
           ],
           "relatedExperience": ["exp-1", "exp-2"],
-          "relatedTraining": ["train-1", "train-2", "train-3", "train-4", "train-5", "train-6"]
+          "relatedTraining": ["train-1", "train-2", "train-3", "train-4", "train-5", "train-6"],
+          "tags": ["Teaching", "Training", "Curriculum Development", "Mentoring", "Workshop", "Education", "Leadership"]
         },
         {
           "name": "Project Management",
@@ -214,7 +250,8 @@
             "Managed knowledge initiatives and expert consultations",
             "Organized technical competitions and educational programs"
           ],
-          "relatedExperience": ["exp-2", "exp-3"]
+          "relatedExperience": ["exp-2", "exp-3"],
+          "tags": ["Project Management", "Agile", "Scrum", "Leadership", "Research Planning", "Team Management"]
         }
       ]
     }

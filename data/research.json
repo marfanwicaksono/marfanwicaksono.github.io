@@ -3,18 +3,20 @@
     {
       "id": "res-1",
       "title": "Sistem Absensi Kampus Terintegrasi Berbasis AIoT dengan Pendekatan QoE dan Akuntabilitas Menggunakan RFID dan Computer Vision",
-      "funder": "Penelitian Dosen Pemula Kemdiktisaintek",
+      "funder": "Penelitian Dosen Pemula Kemendikbudristek",
       "year": "2025",
       "status": "ongoing",
-      "description": "Integrated campus attendance system based on AIoT with QoE and accountability approach using RFID and Computer Vision."
+      "description": "Integrated campus attendance system based on AIoT with QoE and accountability approach using RFID and Computer Vision.",
+      "tags": ["AIoT", "RFID", "Computer Vision", "QoE", "Campus", "Attendance", "Kemdikbudristek"]
     },
     {
       "id": "res-2",
       "title": "Integrasi Agentic AI dalam Pembelajaran Adaptif untuk Meningkatkan Kompetensi Bisnis Digital Mahasiswa",
-      "funder": "Penelitian Dosen Pemula Kemdiktisaintek",
+      "funder": "Penelitian Dosen Pemula Kemendikbudristek",
       "year": "2025",
       "status": "ongoing",
-      "description": "Integration of Agentic AI in adaptive learning to improve students' digital business competencies."
+      "description": "Integration of Agentic AI in adaptive learning to improve students' digital business competencies.",
+      "tags": ["Agentic AI", "Education", "Digital Business", "Adaptive Learning", "Kemdikbudristek"]
     },
     {
       "id": "res-3",
@@ -22,7 +24,8 @@
       "funder": "Penelitian Kompetitif Nasional",
       "year": "2023",
       "status": "completed",
-      "description": "Performance improvement of multimedia delivery on IoT based on Wireless Sensor Networks."
+      "description": "Performance improvement of multimedia delivery on IoT based on Wireless Sensor Networks.",
+      "tags": ["IoT", "WSN", "Multimedia", "QoS", "Performance", "National Research"]
     },
     {
       "id": "res-4",
@@ -30,7 +33,8 @@
       "funder": "Riset dan Inovasi untuk Indonesia Maju",
       "year": "2023",
       "status": "completed",
-      "description": "Development of ML-based data delivery system for QoE improvement in Multimedia IoT."
+      "description": "Development of ML-based data delivery system for QoE improvement in Multimedia IoT.",
+      "tags": ["Machine Learning", "QoE", "IoT", "Multimedia", "Data Delivery", "RIIM"]
     },
     {
       "id": "res-5",
@@ -38,7 +42,8 @@
       "funder": "PPMI",
       "year": "2021",
       "status": "completed",
-      "description": "WSN management system for Multimedia IoT to improve Quality of Service."
+      "description": "WSN management system for Multimedia IoT to improve Quality of Service.",
+      "tags": ["WSN", "IoT", "Multimedia", "QoS", "Network Management", "PPMI"]
     },
     {
       "id": "res-6",
@@ -46,7 +51,8 @@
       "funder": "Riset ITB",
       "year": "2021",
       "status": "completed",
-      "description": "SDN on Wireless Sensor Networks for Multimedia-IoT systems."
+      "description": "SDN on Wireless Sensor Networks for Multimedia-IoT systems.",
+      "tags": ["SDN", "WSN", "IoT", "Multimedia", "M-IoT", "ITB", "Network"]
     },
     {
       "id": "res-7",
@@ -54,7 +60,8 @@
       "funder": "Penelitian Terapan Unggulan Perguruan Tinggi",
       "year": "2020",
       "status": "completed",
-      "description": "Development of hydroponic plant care platform using CNN-based digital image analysis and IoT."
+      "description": "Development of hydroponic plant care platform using CNN-based digital image analysis and IoT.",
+      "tags": ["Hydroponics", "CNN", "IoT", "Image Processing", "Plant Care", "Agriculture", "PTUPT"]
     }
   ]
 }
