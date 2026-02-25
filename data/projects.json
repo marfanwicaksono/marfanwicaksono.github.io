@@ -11,7 +11,7 @@
       "endDate": "2025-07",
       "featured": true,
       "category": "iot",
-      "tags": ["IoT", "RFID", "Computer Vision", "AIoT", "QoE", "Campus System", "Smart Attendance", "Python", "Machine Learning", "Kemdiktisaintek"]
+      "tags": ["IoT & Embedded", "AI & Machine Learning", "Networking", "Research"]
     },
     {
       "id": "project-2",
@@ -24,7 +24,7 @@
       "endDate": "2024-08",
       "featured": true,
       "category": "ai",
-      "tags": ["AI", "NLP", "Machine Learning", "Python", "Proposal Evaluation", "Business Intelligence", "Linxbrain"]
+      "tags": ["AI & Machine Learning", "Software Engineering"]
     },
     {
       "id": "project-3",
@@ -37,7 +37,7 @@
       "endDate": "2018-12",
       "featured": true,
       "category": "iot",
-      "tags": ["IoT", "Arduino", "Sensors", "Pet Care", "Automation", "Mobile App", "Cloud", "ICEEI 2019", "Copyright"]
+      "tags": ["IoT & Embedded", "Cloud & Infrastructure", "Research"]
     },
     {
       "id": "project-4",
@@ -50,7 +50,7 @@
       "endDate": "2017-06",
       "featured": false,
       "category": "design",
-      "tags": ["Enterprise Architecture", "Business Process", "System Design", "Radio-B", "TOGAF"]
+      "tags": ["Software Engineering"]
     },
     {
       "id": "project-5",
@@ -63,7 +63,7 @@
       "endDate": "2017-06",
       "featured": false,
       "category": "design",
-      "tags": ["Healthcare IT", "System Design", "Database Design", "Medical Records", "Patient Management", "Multimedia"]
+      "tags": ["Software Engineering", "Multimedia"]
     },
     {
       "id": "project-6",
@@ -76,7 +76,7 @@
       "endDate": "2016-12",
       "featured": false,
       "category": "web",
-      "tags": ["Web Design", "Information System", "Database", "Siete Cafe", "Requirement Analysis", "Restaurant Management"]
+      "tags": ["Web Development", "Software Engineering"]
     },
     {
       "id": "project-7",
@@ -89,7 +89,7 @@
       "endDate": "2016-12",
       "featured": false,
       "category": "web",
-      "tags": ["Delivery System", "Food Delivery", "E-commerce", "System Design", "Payment Integration", "Chinese Food", "Mulya Cirebon"]
+      "tags": ["Web Development", "Software Engineering"]
     },
     {
       "id": "project-8",
@@ -102,7 +102,7 @@
       "endDate": "2016-12",
       "featured": false,
       "category": "web",
-      "tags": ["Hotel Management", "Reservation System", "PHP", "MySQL", "Web Development", "Booking", "Software Engineering"]
+      "tags": ["Web Development", "Software Engineering"]
     },
     {
       "id": "project-9",
@@ -115,7 +115,7 @@
       "endDate": "2016-05",
       "featured": false,
       "category": "design",
-      "tags": ["Education", "Student Monitoring", "School Management", "Attendance", "Grade Management", "Salman Al-Farisi"]
+      "tags": ["Software Engineering", "Education & Training"]
     },
     {
       "id": "project-10",
@@ -128,7 +128,7 @@
       "endDate": "2016-05",
       "featured": false,
       "category": "design",
-      "tags": ["Booking System", "Futsal", "Reservation", "Scheduling", "Project Management", "Sports Management", "Payment Processing"]
+      "tags": ["Software Engineering", "Project Management"]
     },
     {
       "id": "project-11",
@@ -141,7 +141,7 @@
       "endDate": "2016-05",
       "featured": false,
       "category": "development",
-      "tags": ["Java", "Game Development", "OOP", "Harvest Moon", "Programming", "Simulation"]
+      "tags": ["Software Engineering"]
     },
     {
       "id": "project-12",
@@ -154,7 +154,7 @@
       "endDate": "2015-12",
       "featured": false,
       "category": "database",
-      "tags": ["Database", "SQL", "Airline", "Flight Management", "ERD", "Data Modeling", "Booking System"]
+      "tags": ["Software Engineering", "Data Science"]
     },
     {
       "id": "project-13",
@@ -167,7 +167,7 @@
       "endDate": "2025-10",
       "featured": true,
       "category": "web",
-      "tags": ["React", "Tailwind CSS", "SEO", "Google Analytics", "Web Development", "MHoney", "Freelance", "Frontend"]
+      "tags": ["Web Development"]
     },
     {
       "id": "project-14",
@@ -180,7 +180,7 @@
       "endDate": "present",
       "featured": true,
       "category": "web",
-      "tags": ["React", "Hono", "Cloudflare", "AI", "Invoice", "Fullstack", "Serverless", "Workers", "Pages", "Hobby Project"]
+      "tags": ["Web Development", "AI & Machine Learning", "Cloud & Infrastructure"]
     }
   ]
 }

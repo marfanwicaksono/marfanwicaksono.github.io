@@ -8,7 +8,7 @@
       "level": "National",
       "date": "2017-10",
       "description": "Second place winner in the Business IT-Case Competition at national level.",
-      "tags": ["Competition", "Business IT", "Techphoria", "Sriwijaya", "National", "Winner"]
+      "tags": ["Competition", "Software Engineering"]
     },
     {
       "id": "award-2",
@@ -18,7 +18,7 @@
       "level": "International",
       "date": "2018-08",
       "description": "Silver prize in international engineering solution contest held in South Korea.",
-      "tags": ["Engineering", "Competition", "d-Camp", "IHCEE", "Chonbuk", "International", "Silver Prize", "South Korea"]
+      "tags": ["Competition", "IoT & Embedded"]
     },
     {
       "id": "award-3",
@@ -28,7 +28,7 @@
       "level": "International",
       "date": "2018-08",
       "description": "Participation award in international capstone design project competition.",
-      "tags": ["Capstone", "Design", "Competition", "i-CAPS", "IHCEE", "Chonbuk", "International", "South Korea"]
+      "tags": ["Competition"]
     }
   ],
   "organizations": [
@@ -38,7 +38,7 @@
       "organization": "Lingkung Seni Sunda (LSS) ITB",
       "startDate": "2016-09",
       "endDate": "2017-09",
-      "tags": ["HR", "Management", "Lingkung Seni Sunda", "LSS", "ITB", "Organization", "Leadership"]
+      "tags": ["Project Management"]
     },
     {
       "id": "org-2",
@@ -46,7 +46,7 @@
       "organization": "Himpunan Mahasiswa Informatika (HMIF) ITB",
       "startDate": "2015-02",
       "endDate": "2016-01",
-      "tags": ["HMIF", "ITB", "Intra-Campus", "Organization", "Leadership", "Student Association"]
+      "tags": ["Project Management"]
     }
   ],
   "committee": [
@@ -56,7 +56,7 @@
       "event": "Arkavidia Informatics and IT Festival",
       "organization": "HMIF ITB",
       "date": "2016",
-      "tags": ["Arkavidia", "Logistics", "HMIF", "ITB", "Festival", "Committee", "Event Management"]
+      "tags": ["Project Management"]
     },
     {
       "id": "com-2",
@@ -64,7 +64,7 @@
       "event": "HMIF July Graduation 2016",
       "organization": "HMIF ITB",
       "date": "2016",
-      "tags": ["Graduation", "HMIF", "ITB", "Chairman", "Event", "Committee", "Leadership"]
+      "tags": ["Project Management"]
     },
     {
       "id": "com-3",
@@ -72,7 +72,7 @@
       "event": "New LSS ITB Member Recruitment 2015",
       "organization": "LSS ITB",
       "date": "2015",
-      "tags": ["Recruitment", "Secretary", "LSS", "ITB", "Committee", "Event Management", "Organization"]
+      "tags": ["Project Management"]
     }
   ]
 }

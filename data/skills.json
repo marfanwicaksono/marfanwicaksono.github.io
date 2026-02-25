@@ -20,7 +20,7 @@
           "relatedResearch": ["res-4"],
           "relatedTraining": ["train-5"],
           "relatedEducation": ["edu-1"],
-          "tags": ["Machine Learning", "Scikit-learn", "TensorFlow", "PyTorch", "XGBoost", "AI", "Python", "Data Science"]
+          "tags": ["AI & Machine Learning", "Data Science"]
         },
         {
           "name": "Deep Learning & CNN",
@@ -35,7 +35,7 @@
           "relatedProjects": ["project-5", "project-6"],
           "relatedPublications": ["pub-3", "pub-6"],
           "relatedEducation": ["edu-1", "edu-2"],
-          "tags": ["Deep Learning", "CNN", "TensorFlow", "Keras", "PyTorch", "Neural Networks", "Computer Vision", "AI"]
+          "tags": ["AI & Machine Learning"]
         },
         {
           "name": "Computer Vision",
@@ -50,7 +50,7 @@
           "relatedProjects": ["project-1", "project-5"],
           "relatedResearch": ["res-1"],
           "relatedEducation": ["edu-1"],
-          "tags": ["Computer Vision", "OpenCV", "CNN", "RFID", "Python", "Object Detection", "Image Processing", "AIoT"]
+          "tags": ["AI & Machine Learning", "IoT & Embedded"]
         },
         {
           "name": "Data Science & Analytics",
@@ -64,7 +64,7 @@
           ],
           "relatedExperience": ["exp-3"],
           "relatedTraining": ["train-3"],
-          "tags": ["Data Science", "Python", "Pandas", "NumPy", "Matplotlib", "SQL", "Analytics", "Big Data", "QoE"]
+          "tags": ["Data Science", "AI & Machine Learning"]
         },
         {
           "name": "Agentic Coding",
@@ -87,7 +87,7 @@
           ],
           "relatedProjects": ["project-2", "project-3"],
           "relatedExperience": ["exp-1", "exp-2", "exp-3"],
-          "tags": ["AI Coding", "GitHub Copilot", "Claude", "LLM", "Pair Programming", "Code Generation", "GPT Codex", "GLM"]
+          "tags": ["AI & Machine Learning", "Software Engineering"]
         }
       ]
     },
@@ -111,7 +111,7 @@
           "relatedResearch": ["res-1", "res-3", "res-4", "res-5", "res-6"],
           "relatedTraining": ["train-1", "train-2", "train-4", "train-6"],
           "relatedEducation": ["edu-1", "edu-2"],
-          "tags": ["IoT", "CoAP", "MQTT", "WSN", "Edge Computing", "Cloud IoT", "Sensor Networks", "Architecture"]
+          "tags": ["IoT & Embedded", "Networking", "Cloud & Infrastructure"]
         },
         {
           "name": "RFID Technology",
@@ -124,7 +124,7 @@
           ],
           "relatedProjects": ["project-1"],
           "relatedResearch": ["res-1"],
-          "tags": ["RFID", "NFC", "IoT", "Attendance System", "Computer Vision", "QoE", "Smart Campus"]
+          "tags": ["IoT & Embedded", "AI & Machine Learning"]
         },
         {
           "name": "Wireless Sensor Networks",
@@ -139,7 +139,7 @@
           "relatedPublications": ["pub-4"],
           "relatedResearch": ["res-3", "res-5", "res-6"],
           "relatedEducation": ["edu-1"],
-          "tags": ["WSN", "Wireless Sensor Networks", "CoAP", "6LoWPAN", "SDN", "QoS", "Multimedia", "IoT"]
+          "tags": ["Networking", "IoT & Embedded", "Multimedia"]
         },
         {
           "name": "Embedded Systems",
@@ -155,7 +155,7 @@
           "relatedTraining": ["train-1", "train-6"],
           "relatedEducation": ["edu-2"],
           "relatedAwards": ["award-2"],
-          "tags": ["Embedded Systems", "Arduino", "ESP32", "Raspberry Pi", "Sensors", "IoT", "Automation", "Smart Agriculture"]
+          "tags": ["IoT & Embedded"]
         }
       ]
     },
@@ -176,7 +176,7 @@
           "relatedExperience": ["exp-1", "exp-3"],
           "relatedProjects": ["project-2", "project-3", "project-5"],
           "relatedEducation": ["edu-1", "edu-2"],
-          "tags": ["Python", "Django", "FastAPI", "NumPy", "Pandas", "Matplotlib", "TensorFlow", "Backend", "API"]
+          "tags": ["Software Engineering", "AI & Machine Learning", "Web Development"]
         },
         {
           "name": "Web Development",
@@ -190,7 +190,7 @@
           ],
           "relatedExperience": ["exp-2", "exp-3"],
           "relatedProjects": ["project-2"],
-          "tags": ["Web Development", "JavaScript", "React", "Node.js", "REST APIs", "Frontend", "Fullstack", "Dashboard"]
+          "tags": ["Web Development"]
         },
         {
           "name": "Database Management",
@@ -203,7 +203,7 @@
             "Implemented data pipelines for sensor networks"
           ],
           "relatedProjects": ["project-1", "project-2", "project-3"],
-          "tags": ["Database", "MySQL", "PostgreSQL", "MongoDB", "Redis", "SQL", "NoSQL", "Data Engineering", "Time Series"]
+          "tags": ["Software Engineering", "Data Science"]
         }
       ]
     },
@@ -224,7 +224,7 @@
           "relatedResearch": ["res-1", "res-2", "res-3", "res-4", "res-5", "res-6"],
           "relatedPublications": ["pub-1", "pub-2", "pub-3", "pub-4", "pub-5"],
           "relatedEducation": ["edu-1"],
-          "tags": ["Research", "Academic", "LaTeX", "Publications", "IoT Research", "ML Research", "WSN Research", "Scientific Writing"]
+          "tags": ["Research"]
         },
         {
           "name": "Teaching & Training",
@@ -238,7 +238,7 @@
           ],
           "relatedExperience": ["exp-1", "exp-2"],
           "relatedTraining": ["train-1", "train-2", "train-3", "train-4", "train-5", "train-6"],
-          "tags": ["Teaching", "Training", "Curriculum Development", "Mentoring", "Workshop", "Education", "Leadership"]
+          "tags": ["Education & Training", "Project Management"]
         },
         {
           "name": "Project Management",
@@ -251,7 +251,7 @@
             "Organized technical competitions and educational programs"
           ],
           "relatedExperience": ["exp-2", "exp-3"],
-          "tags": ["Project Management", "Agile", "Scrum", "Leadership", "Research Planning", "Team Management"]
+          "tags": ["Project Management"]
         }
       ]
     }

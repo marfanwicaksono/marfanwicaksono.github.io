@@ -14,7 +14,7 @@
         "Published multiple research papers on Multimedia IoT",
         "PPMI Research Grant recipient"
       ],
-      "tags": ["Master", "ITB", "Informatics", "WSN", "IoT", "Research", "PPMI", "Academic"]
+      "tags": ["Research", "IoT & Embedded", "Networking"]
     },
     {
       "id": "edu-2",
@@ -30,7 +30,7 @@
         "Silver Prize at d-Camp 2018 Engineering Solution Contest",
         "Active in organizational and committee activities"
       ],
-      "tags": ["Bachelor", "ITB", "Information Systems", "IoT", "d-Camp", "Engineering", "Academic"]
+      "tags": ["Software Engineering", "IoT & Embedded"]
     },
     {
       "id": "edu-3",
@@ -42,7 +42,7 @@
       "endDate": "2014-06",
       "gpa": "50.7/60",
       "achievements": [],
-      "tags": ["High School", "SMA 15", "Natural Science", "Bandung", "Secondary Education"]
+      "tags": ["Education & Training"]
     },
     {
       "id": "edu-4",
@@ -54,7 +54,7 @@
       "endDate": "2011-06",
       "gpa": "35.95/40",
       "achievements": [],
-      "tags": ["Junior High", "SMP 2", "General Education", "Bandung", "Secondary Education"]
+      "tags": ["Education & Training"]
     }
   ],
   "certifications": [
@@ -66,7 +66,7 @@
       "expiryDate": "2027-02",
       "credentialId": "24ID516923WICM195A",
       "visible": true,
-      "tags": ["IELTS", "English", "Certification", "British Council", "Language Proficiency", "Band 7"]
+      "tags": ["Education & Training"]
     },
     {
       "id": "cert-efset-2025",
@@ -74,7 +74,7 @@
       "issuer": "EF SET",
       "date": "2025-01",
       "visible": true,
-      "tags": ["EF SET", "English", "Certification", "C2", "Language Proficiency", "Bahasa Inggris"]
+      "tags": ["Education & Training"]
     }
   ]
 }

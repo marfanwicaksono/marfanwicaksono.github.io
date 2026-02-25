@@ -8,7 +8,7 @@
       "type": "journal",
       "authors": ["Mokhamad Arfan Wicaksono"],
       "url": null,
-      "tags": ["Agentic AI", "SPAR-4-SLR", "Education", "AI Research", "Systematic Literature Review", "AI Evolution"]
+      "tags": ["AI & Machine Learning", "Research", "Education & Training"]
     },
     {
       "id": "pub-2",
@@ -18,7 +18,7 @@
       "type": "journal",
       "authors": ["Mokhamad Arfan Wicaksono"],
       "url": null,
-      "tags": ["CoAP", "IoT", "Video", "Communication", "Performance Evaluation", "Internet of Video Things"]
+      "tags": ["IoT & Embedded", "Networking", "Multimedia", "Research"]
     },
     {
       "id": "pub-3",
@@ -28,7 +28,7 @@
       "type": "conference",
       "authors": ["Mokhamad Arfan Wicaksono"],
       "url": null,
-      "tags": ["CNN", "Deep Learning", "Music Classification", "ICITSI", "Conference", "Neural Networks"]
+      "tags": ["AI & Machine Learning", "Multimedia", "Research"]
     },
     {
       "id": "pub-4",
@@ -38,7 +38,7 @@
       "type": "journal",
       "authors": ["Mokhamad Arfan Wicaksono"],
       "url": null,
-      "tags": ["SDWSN", "CoAP", "WSN", "Multimedia", "IoT", "SDN", "Network Management"]
+      "tags": ["Networking", "IoT & Embedded", "Multimedia", "Research"]
     },
     {
       "id": "pub-5",
@@ -48,7 +48,7 @@
       "type": "journal",
       "authors": ["Mokhamad Arfan Wicaksono"],
       "url": null,
-      "tags": ["IoT", "Machine Learning", "Video", "Optimization", "ACM", "QoE", "Frame Resolution"]
+      "tags": ["IoT & Embedded", "AI & Machine Learning", "Multimedia", "Research"]
     },
     {
       "id": "pub-6",
@@ -58,7 +58,7 @@
       "type": "journal",
       "authors": ["Mokhamad Arfan Wicaksono"],
       "url": null,
-      "tags": ["Inception-V3", "SVM", "Garbage Classification", "CNN", "Deep Learning", "Waste Management"]
+      "tags": ["AI & Machine Learning", "Research"]
     },
     {
       "id": "pub-7",
@@ -68,7 +68,7 @@
       "type": "journal",
       "authors": ["Mokhamad Arfan Wicaksono"],
       "url": null,
-      "tags": ["SquezeeNet", "XGBoost", "Waste Classification", "CNN", "Machine Learning", "Recycling", "IJACSA"]
+      "tags": ["AI & Machine Learning", "Research"]
     },
     {
       "id": "pub-8",
@@ -78,7 +78,7 @@
       "type": "conference",
       "authors": ["Mokhamad Arfan Wicaksono"],
       "url": null,
-      "tags": ["CoAP", "WSN", "Node-Edge", "Multimedia", "IoT", "Conference", "Evaluation"]
+      "tags": ["IoT & Embedded", "Networking", "Multimedia", "Research"]
     },
     {
       "id": "pub-9",
@@ -88,7 +88,7 @@
       "type": "conference",
       "authors": ["Mokhamad Arfan Wicaksono"],
       "url": null,
-      "tags": ["IoT", "Cat Care", "Pet Monitoring", "Arduino", "Sensors", "ICEEI", "Conference", "Automation"]
+      "tags": ["IoT & Embedded", "Research"]
     }
   ],
   "patents": [
@@ -98,7 +98,7 @@
       "type": "Computer Program Copyright",
       "issuer": "Indonesia Ministry of Law",
       "date": "2020-12",
-      "tags": ["Hydroponics", "Copyright", "IoT", "Sensors", "Agriculture", "Plant Monitoring"]
+      "tags": ["IoT & Embedded", "Research"]
     },
     {
       "id": "patent-2",
@@ -106,7 +106,7 @@
       "type": "Computer Program Copyright",
       "issuer": "Indonesia Ministry of Law",
       "date": "2019-03",
-      "tags": ["Cat Care", "Copyright", "IoT", "Pet Monitoring", "Automation", "Arduino"]
+      "tags": ["IoT & Embedded", "Research"]
     }
   ]
 }

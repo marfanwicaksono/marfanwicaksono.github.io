@@ -7,7 +7,7 @@
       "year": "2025",
       "status": "ongoing",
       "description": "Integrated campus attendance system based on AIoT with QoE and accountability approach using RFID and Computer Vision.",
-      "tags": ["AIoT", "RFID", "Computer Vision", "QoE", "Campus", "Attendance", "Kemdikbudristek"]
+      "tags": ["IoT & Embedded", "AI & Machine Learning", "Research"]
     },
     {
       "id": "res-2",
@@ -16,7 +16,7 @@
       "year": "2025",
       "status": "ongoing",
       "description": "Integration of Agentic AI in adaptive learning to improve students' digital business competencies.",
-      "tags": ["Agentic AI", "Education", "Digital Business", "Adaptive Learning", "Kemdikbudristek"]
+      "tags": ["AI & Machine Learning", "Education & Training", "Research"]
     },
     {
       "id": "res-3",
@@ -25,7 +25,7 @@
       "year": "2023",
       "status": "completed",
       "description": "Performance improvement of multimedia delivery on IoT based on Wireless Sensor Networks.",
-      "tags": ["IoT", "WSN", "Multimedia", "QoS", "Performance", "National Research"]
+      "tags": ["IoT & Embedded", "Networking", "Multimedia", "Research"]
     },
     {
       "id": "res-4",
@@ -34,7 +34,7 @@
       "year": "2023",
       "status": "completed",
       "description": "Development of ML-based data delivery system for QoE improvement in Multimedia IoT.",
-      "tags": ["Machine Learning", "QoE", "IoT", "Multimedia", "Data Delivery", "RIIM"]
+      "tags": ["AI & Machine Learning", "IoT & Embedded", "Multimedia", "Research"]
     },
     {
       "id": "res-5",
@@ -43,7 +43,7 @@
       "year": "2021",
       "status": "completed",
       "description": "WSN management system for Multimedia IoT to improve Quality of Service.",
-      "tags": ["WSN", "IoT", "Multimedia", "QoS", "Network Management", "PPMI"]
+      "tags": ["Networking", "IoT & Embedded", "Multimedia", "Research"]
     },
     {
       "id": "res-6",
@@ -52,7 +52,7 @@
       "year": "2021",
       "status": "completed",
       "description": "SDN on Wireless Sensor Networks for Multimedia-IoT systems.",
-      "tags": ["SDN", "WSN", "IoT", "Multimedia", "M-IoT", "ITB", "Network"]
+      "tags": ["Networking", "IoT & Embedded", "Multimedia", "Research"]
     },
     {
       "id": "res-7",
@@ -61,7 +61,7 @@
       "year": "2020",
       "status": "completed",
       "description": "Development of hydroponic plant care platform using CNN-based digital image analysis and IoT.",
-      "tags": ["Hydroponics", "CNN", "IoT", "Image Processing", "Plant Care", "Agriculture", "PTUPT"]
+      "tags": ["AI & Machine Learning", "IoT & Embedded", "Research"]
     }
   ]
 }

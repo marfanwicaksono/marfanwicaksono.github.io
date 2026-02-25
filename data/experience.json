@@ -15,7 +15,7 @@
         "Developing AI/ML solutions for urban development projects"
       ],
       "expertise": ["Python", "Machine Learning", "TensorFlow", "Data Science"],
-      "tags": ["AI", "Machine Learning", "Python", "TensorFlow", "UrbanSolv", "Trainer", "Specialist"]
+      "tags": ["AI & Machine Learning", "Education & Training"]
     },
     {
       "id": "exp-2",
@@ -33,7 +33,7 @@
         "Community engagement through BOOST YOUR BUSINESS programs"
       ],
       "expertise": ["Software Engineering", "Education", "Programming"],
-      "tags": ["Software Engineering", "Education", "Head of Department", "Akademi Digital", "Curriculum", "Leadership"]
+      "tags": ["Education & Training", "Software Engineering", "Project Management"]
     },
     {
       "id": "exp-3",
@@ -50,7 +50,7 @@
         "Conducted Data Analytics workshops for government and corporate clients"
       ],
       "expertise": ["Data Analytics", "AI", "Project Management"],
-      "tags": ["Knowledge Management", "Data Analytics", "AI", "Head of Knowledge", "EKG", "Consulting", "Expert"]
+      "tags": ["AI & Machine Learning", "Data Science", "Project Management"]
     },
     {
       "id": "exp-4",
@@ -67,7 +67,7 @@
         "Contributing to research projects"
       ],
       "expertise": ["Research", "Teaching", "Academic Support"],
-      "tags": ["Academic", "Assistant", "ITB", "STEI", "Research Support", "Teaching", "Part-time"]
+      "tags": ["Research", "Education & Training"]
     },
     {
       "id": "exp-5",
@@ -85,7 +85,7 @@
         "Developed ML-based video delivery optimization systems"
       ],
       "expertise": ["IoT", "Machine Learning", "Wireless Sensor Networks", "Python", "Research"],
-      "tags": ["Research", "IoT", "WSN", "Machine Learning", "ITB", "Laboratory", "DSP-MC", "Publications"]
+      "tags": ["Research", "IoT & Embedded", "AI & Machine Learning", "Networking"]
     },
     {
       "id": "exp-6",
@@ -102,7 +102,7 @@
         "Contributed to R&D initiatives"
       ],
       "expertise": ["Network Security", "R&D"],
-      "tags": ["Internship", "Network Security", "R&D", "Indo Cis", "Cisco", "Security", "Research"]
+      "tags": ["Networking", "Research"]
     }
   ]
 }
