@@ -1,6 +1,16 @@
 {
   "publications": [
     {
+      "id": "pub-0",
+      "title": "IOT-BASED AUTOMATIC BMI MONITORING SYSTEM WITH RFID AND TRL EVALUATION",
+      "journal": "Jurnal Ilmiah Ilmu Terapan Universitas Jambi",
+      "date": "2026-01",
+      "type": "journal",
+      "authors": ["Rohmah, R. N.", "Aprilianto, C. P.", "Budiman, A.", "Mubin, M. N.", "Mokhamad Arfan Wicaksono", "Nurokhim, N."],
+      "url": "https://doi.org/10.22437/jiituj.v10i1.53197",
+      "tags": ["IoT & Embedded", "Research"]
+    },
+    {
       "id": "pub-1",
       "title": "The New Educational Frontier: Agentic AI's Evolutionary Journey Through The Lens of SPAR-4-SLR",
       "journal": "VOCATECH: Vocational Education and Technology Journal",
