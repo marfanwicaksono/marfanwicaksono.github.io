@@ -18,6 +18,23 @@
       "tags": ["AI & Machine Learning", "Education & Training"]
     },
     {
+      "id": "exp-7",
+      "company": "PT Labtech Inovasi Indonesia",
+      "position": "Lead IoT & AI Engineer",
+      "location": "Indonesia",
+      "type": "full-time",
+      "startDate": "2025-03",
+      "endDate": null,
+      "current": true,
+      "description": "Leading IoT and AI engineering initiatives, including solution design, implementation, and technical direction for innovation projects.",
+      "achievements": [
+        "Leading end-to-end IoT and AI solution development",
+        "Driving technical strategy and implementation for engineering projects"
+      ],
+      "expertise": ["IoT", "AI", "Machine Learning", "System Architecture"],
+      "tags": ["IoT & Embedded", "AI & Machine Learning", "Software Engineering"]
+    },
+    {
       "id": "exp-2",
       "company": "Akademi Digital Bandung",
       "position": "Head of Department of Software Engineering Technology",

@@ -181,6 +181,19 @@
       "featured": true,
       "category": "web",
       "tags": ["Web Development", "AI & Machine Learning", "Cloud & Infrastructure"]
+    },
+    {
+      "id": "project-15",
+      "title": "AI-based Proposal Checker",
+      "description": "AI-based Proposal Checker for Hackathon Competition in Bank Indonesia.",
+      "longDescription": "Built an AI-based Proposal Checker for Hackathon Competition in Bank Indonesia. The solution evaluated 2000+ proposals using AI tools to speed up screening and improve consistency.",
+      "expertise": ["AI", "NLP", "Python", "Machine Learning"],
+      "organization": "Hackathon Competition in Bank Indonesia",
+      "startDate": "2026-04",
+      "endDate": "2026-04",
+      "featured": true,
+      "category": "ai",
+      "tags": ["AI & Machine Learning", "Software Engineering"]
     }
   ]
 }

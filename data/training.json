@@ -191,6 +191,24 @@
       "date": "2025-10",
       "type": "speaker",
       "tags": ["AI & Machine Learning", "IoT & Embedded", "Education & Training"]
+    },
+    {
+      "id": "train-25",
+      "title": "IoT, Data Science, and AI Private Teacher",
+      "organization": "UNSIA Student",
+      "startDate": "2026-02",
+      "endDate": "2026-05",
+      "type": "trainer",
+      "tags": ["IoT & Embedded", "Data Science", "AI & Machine Learning", "Education & Training"]
+    },
+    {
+      "id": "train-26",
+      "title": "IT Teacher for Singapore Intercultural School Student",
+      "organization": "Singapore Intercultural School Student",
+      "startDate": "2026-04",
+      "current": true,
+      "type": "trainer",
+      "tags": ["Software Engineering", "Education & Training"]
     }
   ]
 }
