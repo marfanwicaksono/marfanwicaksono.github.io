@@ -209,6 +209,14 @@
       "current": true,
       "type": "trainer",
       "tags": ["Software Engineering", "Education & Training"]
+    },
+    {
+      "id": "train-27",
+      "title": "Speaker at Webinar: Future-Proof Your Career with AI & Tech Skills (Even If You're Starting from Zero)",
+      "organization": "Samsung Innovation Campus x dibimbing.id",
+      "date": "2026-05",
+      "type": "speaker",
+      "tags": ["AI & Machine Learning", "Education & Training"]
     }
   ]
 }
