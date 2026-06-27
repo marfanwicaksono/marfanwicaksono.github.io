@@ -3,15 +3,15 @@
     {
       "id": "project-1",
       "title": "RFID-based Student Attendance Platform",
-      "description": "IoT-based campus attendance system using RFID and Computer Vision with QoE and accountability approach.",
-      "longDescription": "Developing an integrated campus attendance system based on AIoT (Artificial Intelligence of Things) with QoE (Quality of Experience) and accountability approach using RFID and Computer Vision technologies. This is a Penelitian Dosen Pemula project funded by Kemdiktisaintek.",
+      "description": "IoT-based school attendance system using Long-Range RFID.",
+      "longDescription": "Developing an integrated school attendance system based on IoT using Long-Range RFID technologies.",
       "expertise": ["IoT", "RFID", "Computer Vision", "Python", "Machine Learning"],
       "organization": "Yayasan Pendidikan Telkom",
       "startDate": "2025-03",
       "endDate": "2025-07",
       "featured": true,
       "category": "iot",
-      "tags": ["IoT & Embedded", "AI & Machine Learning", "Networking", "Research"]
+      "tags": ["IoT & Embedded", "Networking"]
     },
     {
       "id": "project-2",
