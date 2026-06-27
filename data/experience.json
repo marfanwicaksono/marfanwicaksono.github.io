@@ -59,8 +59,8 @@
       "location": "Indonesia",
       "type": "full-time",
       "startDate": "2023-11",
-      "endDate": "2025-10",
-      "current": false,
+      "endDate": null,
+      "current": true,
       "description": "Managing knowledge initiatives and providing expert consultation on data analytics and AI projects.",
       "achievements": [
         "Developed AI-based Proposal Checker Platform",
@@ -106,7 +106,7 @@
     },
     {
       "id": "exp-6",
-      "company": "PT Indo Cis Cisco Network Security Consultant",
+      "company": "PT Indo Cisc Network Security Consultant",
       "position": "Research and Development Intern",
       "location": "Indonesia",
       "type": "internship",
