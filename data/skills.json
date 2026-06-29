@@ -32,7 +32,7 @@
             "Built computer vision systems for plant disease detection",
             "Created garbage classification system using Inception-V3 and SVM"
           ],
-          "relatedProjects": ["project-5", "project-6"],
+          "relatedProjects": ["project-1"],
           "relatedPublications": ["pub-3", "pub-6"],
           "relatedEducation": ["edu-1", "edu-2"],
           "tags": ["AI & Machine Learning"]
@@ -47,7 +47,7 @@
             "Built image processing for hydroponic plant monitoring",
             "Implemented real-time object detection systems"
           ],
-          "relatedProjects": ["project-1", "project-5"],
+          "relatedProjects": ["project-1"],
           "relatedResearch": ["res-1"],
           "relatedEducation": ["edu-1"],
           "tags": ["AI & Machine Learning", "IoT & Embedded"]
@@ -103,10 +103,10 @@
           "capabilities": [
             "Designed software-defined wireless multimedia sensor networks",
             "Built end-to-end IoT solutions from sensors to cloud",
-            "Published 10+ research papers on IoT systems optimization"
+            "Published 6+ research papers on IoT systems optimization"
           ],
-          "relatedExperience": ["exp-1", "exp-3"],
-          "relatedProjects": ["project-1", "project-3", "project-4"],
+          "relatedExperience": ["exp-7", "exp-5"],
+          "relatedProjects": ["project-1", "project-3"],
           "relatedPublications": ["pub-2", "pub-4", "pub-5"],
           "relatedResearch": ["res-1", "res-3", "res-4", "res-5", "res-6"],
           "relatedTraining": ["train-1", "train-2", "train-4", "train-6"],
@@ -151,7 +151,7 @@
             "Developed hydroponic monitoring with environmental sensors",
             "Created smart agriculture IoT devices"
           ],
-          "relatedProjects": ["project-4", "project-5"],
+          "relatedProjects": ["project-3", "project-1"],
           "relatedTraining": ["train-1", "train-6"],
           "relatedEducation": ["edu-2"],
           "relatedAwards": ["award-2"],
@@ -189,7 +189,7 @@
             "Created educational platforms and competition systems"
           ],
           "relatedExperience": ["exp-2", "exp-3"],
-          "relatedProjects": ["project-2"],
+          "relatedProjects": ["project-13", "project-14", "project-8"],
           "tags": ["Web Development"]
         },
         {
@@ -217,7 +217,7 @@
           "experience": "7+ years",
           "expertise": ["LaTeX", "Research Methodology", "Statistical Analysis"],
           "capabilities": [
-            "Published 15+ papers in international journals and conferences",
+            "Published 10 papers in international journals and conferences",
             "Led 6+ funded research projects (national and institutional)",
             "Expertise in IoT, ML, and WSN research domains"
           ],
